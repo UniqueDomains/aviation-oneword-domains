@@ -26,12 +26,12 @@ If you want to search & filters the complete database of [Aviation one word doma
 | aircraft.it     | resell    | 70       | 80%    | 8      |                                                           | 04/05/2019 09:00 | 04/05/2026 00:00 |
 | aircraft.me     | resell    | 70       | 80%    | 8      | Name.com, Inc.                                            | 06/09/2015 02:35 | 06/09/2025 02:35 |
 | aircraft.net    | resell    | 70       | 80%    | 8      | Spaceship, Inc.                                           | 26/09/2000 10:32 | 26/09/2025 10:32 |
-| aircraft.online | available | 70       | 80%    | 8      |                                                           |                  |                  |
-| aircraft.site   | available | 70       | 80%    | 8      |                                                           |                  |                  |
+| aircraft.online | premium   | 70       | 80%    | 8      |                                                           |                  |                  |
+| aircraft.site   | premium   | 70       | 80%    | 8      |                                                           |                  |                  |
 | aircraft.so     | available | 70       | 80%    | 8      |                                                           |                  |                  |
-| aircraft.space  | available | 70       | 80%    | 8      |                                                           |                  |                  |
-| aircraft.store  | available | 70       | 80%    | 8      |                                                           |                  |                  |
-| aircraft.tech   | available | 70       | 80%    | 8      |                                                           |                  |                  |
+| aircraft.space  | premium   | 70       | 80%    | 8      |                                                           |                  |                  |
+| aircraft.store  | premium   | 70       | 80%    | 8      |                                                           |                  |                  |
+| aircraft.tech   | premium   | 70       | 80%    | 8      |                                                           |                  |                  |
 | aircraft.xyz    | resell    | 70       | 80%    | 8      | Go Daddy, LLC                                             | 02/06/2014 16:34 | 02/06/2026 23:59 |
 | aircraft.zone   | premium   | 70       | 80%    | 8      |                                                           |                  |                  |
 | services.at     | premium   | 72       | 92%    | 8      |                                                           |                  |                  |
@@ -43,14 +43,14 @@ If you want to search & filters the complete database of [Aviation one word doma
 | services.store  | premium   | 72       | 92%    | 8      |                                                           |                  |                  |
 | services.tech   | premium   | 72       | 92%    | 8      |                                                           |                  |                  |
 | air.academy     | expiring  | 84       | 41%    | 3      | Global Domains International, Inc. DBA DomainCostClub.com | 30/09/2021 17:00 | 30/09/2025 17:00 |
-| air.accountant  | available | 84       | 41%    | 3      |                                                           |                  |                  |
+| air.accountant  | premium   | 84       | 41%    | 3      |                                                           |                  |                  |
 | air.accountants | available | 84       | 41%    | 3      |                                                           |                  |                  |
 | air.actor       | available | 84       | 41%    | 3      |                                                           |                  |                  |
-| air.adult       | available | 84       | 41%    | 3      |                                                           |                  |                  |
-| air.airforce    | available | 84       | 41%    | 3      |                                                           |                  |                  |
-| air.apartments  | available | 84       | 41%    | 3      |                                                           |                  |                  |
-| air.army        | available | 84       | 41%    | 3      |                                                           |                  |                  |
-| air.associates  | available | 84       | 41%    | 3      |                                                           |                  |                  |
+| air.adult       | premium   | 84       | 41%    | 3      |                                                           |                  |                  |
+| air.airforce    | premium   | 84       | 41%    | 3      |                                                           |                  |                  |
+| air.apartments  | premium   | 84       | 41%    | 3      |                                                           |                  |                  |
+| air.army        | premium   | 84       | 41%    | 3      |                                                           |                  |                  |
+| air.associates  | premium   | 84       | 41%    | 3      |                                                           |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Aviation-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
