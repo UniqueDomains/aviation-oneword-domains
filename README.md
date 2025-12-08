@@ -42,15 +42,15 @@ If you want to search & filters the complete database of [Aviation one word doma
 | services.space  | premium   | 72       | 92%    | 8      |                                                           |                  |                  |
 | services.store  | premium   | 72       | 92%    | 8      |                                                           |                  |                  |
 | services.tech   | premium   | 72       | 92%    | 8      |                                                           |                  |                  |
-| air.academy     | expiring  | 84       | 41%    | 3      | Global Domains International, Inc. DBA DomainCostClub.com | 30/09/2021 17:00 | 30/09/2025 17:00 |
-| air.accountant  | premium   | 84       | 41%    | 3      |                                                           |                  |                  |
-| air.accountants | available | 84       | 41%    | 3      |                                                           |                  |                  |
-| air.actor       | available | 84       | 41%    | 3      |                                                           |                  |                  |
-| air.adult       | premium   | 84       | 41%    | 3      |                                                           |                  |                  |
-| air.airforce    | premium   | 84       | 41%    | 3      |                                                           |                  |                  |
-| air.apartments  | premium   | 84       | 41%    | 3      |                                                           |                  |                  |
-| air.army        | premium   | 84       | 41%    | 3      |                                                           |                  |                  |
-| air.associates  | premium   | 84       | 41%    | 3      |                                                           |                  |                  |
+| air.academy     | expired   | 84       | 38%    | 3      | Global Domains International, Inc. DBA DomainCostClub.com | 30/09/2021 17:00 | 30/09/2025 17:00 |
+| air.accountant  | premium   | 84       | 38%    | 3      |                                                           |                  |                  |
+| air.accountants | available | 84       | 38%    | 3      |                                                           |                  |                  |
+| air.actor       | available | 84       | 38%    | 3      |                                                           |                  |                  |
+| air.adult       | premium   | 84       | 38%    | 3      |                                                           |                  |                  |
+| air.agency      | expiring  | 84       | 38%    | 3      | Regional Network Information Center, JSC dba RU-CENTER    | 26/12/2015 19:51 | 26/12/2025 19:51 |
+| air.airforce    | premium   | 84       | 38%    | 3      |                                                           |                  |                  |
+| air.apartments  | premium   | 84       | 38%    | 3      |                                                           |                  |                  |
+| air.army        | premium   | 84       | 38%    | 3      |                                                           |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Aviation-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Aviation one word doma
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
