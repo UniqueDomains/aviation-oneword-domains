@@ -737,7 +737,7 @@ c6cb7b2e-ba71-4d59-8c69-258bb2f639f7,flight.cards,available,112,24,6,,,
 b7f362df-31b3-4a95-a252-0fcdc6240fcb,flight.cars,available,112,24,6,,,
 14d7bd81-4c68-4f34-82b4-95deaed57bd6,flight.casa,sold,112,24,6,Dynadot Inc,23/10/2025 17:03,23/10/2026 17:03
 cae9b942-296b-40e0-9059-54f766620408,flight.cash,sold,112,24,6,"NameCheap, Inc.",29/09/2023 15:15,29/09/2026 15:15
-dd53aff5-7399-4c7e-8aaf-0a18769b8fe5,flight.casino,expired,112,24,6,"Sav.com, LLC",22/09/2024 17:10,22/09/2025 17:10
+dd53aff5-7399-4c7e-8aaf-0a18769b8fe5,flight.casino,premium,112,24,6,,,
 979241d7-5900-45fd-a0c5-d09149c99d78,flight.ceo,available,112,24,6,,,
 1e10f3d5-3698-4c3c-aad8-5b85a8d1ff2d,flight.cfd,premium,112,24,6,,,
 3339d5cd-f03f-41da-b088-ab8f8e920d72,flight.charity,available,112,24,6,,,
@@ -776,6 +776,7 @@ c15f7057-4308-4231-884e-7f155825a780,flight.cyou,premium,112,24,6,,,
 eaff5130-1b65-41fa-b071-fd66a687d8e9,flight.day,premium,112,24,6,,,
 85db5c03-a712-43d1-8f36-d20c35b80cf1,flight.deal,premium,112,24,6,,,
 6dc4ec5e-305a-4b55-a398-a3130e4b924a,flight.dealer,premium,112,24,6,,,
+126062aa-c4fe-4660-85ff-8c83f1d0796b,flight.deals,expiring,112,24,6,"Spaceship, Inc.",11/01/2022 17:07,11/01/2026 17:07
 b3b0dd37-f64a-4ec8-8945-ab6d82f30ccb,flight.degree,available,112,24,6,,,
 20c6f5d3-046b-4d65-9eac-a51eecacd18f,flight.delivery,available,112,24,6,,,
 8006dbd0-e139-4ade-9537-e04093f0ea12,flight.democrat,available,112,24,6,,,
@@ -785,7 +786,7 @@ c03ddeef-4ab3-485c-a113-cacf7b8978c9,flight.dev,sold,112,24,6,"Name.com, Inc.",3
 f5d06151-b080-489b-9605-de957ccc3c20,flight.diamonds,available,112,24,6,,,
 075f8260-1bfc-4ff0-8dbd-cfb8634a5ed2,flight.diet,available,112,24,6,,,
 99e982a2-a592-48a1-b9ff-f291f1a61535,flight.digital,resell,112,24,6,Netregistry Wholesale Pty Ltd,11/08/2024 17:00,11/08/2026 17:00
-3ca13f69-dd67-4a74-9d6b-0b9d9c3e6565,flight.direct,sold,112,24,6,Porkbun LLC,25/10/2020 19:33,25/10/2026 19:33
+3ca13f69-dd67-4a74-9d6b-0b9d9c3e6565,flight.direct,resell,112,24,6,Porkbun LLC,25/10/2020 19:33,25/10/2026 19:33
 d748ef50-8324-4ed4-b9a4-48b95fe6b59b,flight.discount,premium,112,24,6,,,
 40a1417e-a353-4326-adbb-195f80bd539b,flight.diy,premium,112,24,6,,,
 289c1d87-259f-4f29-b6e5-f99e965d1317,flight.doctor,available,112,24,6,,,
@@ -868,6 +869,7 @@ d7bc219f-0eeb-4640-a46e-f23d64fe0475,flight.international,resell,112,24,6,"Sav.c
 e36aab70-beab-42df-8ad2-bd2b67e46b42,flight.investments,available,112,24,6,,,
 f8145ea7-0780-4b2e-9628-db1a8a5f60f0,flight.io,resell,112,24,6,"GoDaddy.com, LLC",29/05/2024 15:18,29/05/2026 15:18
 7c1e44e3-8d42-4beb-b739-ff8d9268156e,flight.irish,available,112,24,6,,,
+acfafad6-7408-4091-95d2-ed3bf6cddc59,flight.it,expiring,112,24,6,,21/12/1999 00:00,07/01/2026 00:00
 ba30539a-e5ce-4ba2-8ae3-41809f27c3ab,flight.jetzt,available,112,24,6,,,
 d7e3cc37-4f12-4c5f-8c5f-8b8c71a6ef24,flight.jewelry,available,112,24,6,,,
 13bfc69a-5ea1-44d1-818f-bfa965490d5c,flight.juegos,available,112,24,6,,,
@@ -884,7 +886,7 @@ bf68d6a5-285a-431b-a8f1-026dd7298ad5,flight.life,resell,112,24,6,"Sav.com, LLC -
 ca5ec5ac-5eae-4d48-bc9b-0e19df32be10,flight.lifestyle,premium,112,24,6,,,
 3ce1f953-604a-44cc-9bfe-d43bb2c7eb25,flight.lighting,available,112,24,6,,,
 20438f46-b3e8-47b9-999d-982af01dff6f,flight.limo,available,112,24,6,,,
-54971eda-f3cc-4e4d-aa52-d16b8769a6c0,flight.link,sold,112,24,6,NAMECHEAP,30/10/2020 15:23,30/10/2026 15:23
+54971eda-f3cc-4e4d-aa52-d16b8769a6c0,flight.link,resell,112,24,6,NAMECHEAP,30/10/2020 15:23,30/10/2026 15:23
 ddf9e3a9-cd84-4e30-800f-4c6e2de2ba0f,flight.live,resell,112,24,6,Porkbun LLC,12/05/2025 19:42,12/05/2026 19:42
 2ec85dde-c81c-47c3-99dd-5098e190e594,flight.living,premium,112,24,6,,,
 2e6f963d-8a82-4303-8b14-8f316ac110cf,flight.llc,premium,112,24,6,,,
@@ -920,7 +922,7 @@ b5e10f91-16db-403b-85be-9919d8c2c7f5,flight.music,premium,112,24,6,,,
 48cd2ba4-a6fb-402f-b379-d44d25f782d1,flight.mx,resell,112,24,6,GoDaddy.com,18/11/2010 00:00,17/11/2026 00:00
 c38e5c14-8836-4c97-93b0-504df6db10e8,flight.name,premium,112,24,6,,,
 71ff8f1c-eea0-4cdc-a363-e0ea8ec00361,flight.navy,available,112,24,6,,,
-8a9cab9c-baf6-4944-905f-60f417f0617c,flight.network,expiring,112,24,6,Dynadot Inc,07/12/2021 19:04,07/12/2025 19:04
+8a9cab9c-baf6-4944-905f-60f417f0617c,flight.network,sold,112,24,6,Dynadot Inc,07/12/2021 19:04,07/12/2026 19:04
 2d136ccf-284f-46d1-8904-15f5620f18ba,flight.news,premium,112,24,6,,,
 b5dfe948-1c23-4361-9bba-fb9f607b5918,flight.nexus,premium,112,24,6,,,
 355738d7-13a8-468e-ad98-6b7f58f812b1,flight.ngo,available,112,24,6,,,
@@ -940,6 +942,7 @@ c8ba789d-a35e-43a6-85cb-8a90dcc21821,flight.page,premium,112,24,6,,,
 521e8722-ea38-4eb6-bc51-bc86be49b2ae,flight.pet,available,112,24,6,,,
 a581a485-4c4d-4e99-9b8d-5c1efc6199f0,flight.phd,premium,112,24,6,,,
 fed71b07-4334-40e1-a57f-6c3b518890b0,flight.photo,premium,112,24,6,,,
+2513675e-90b5-4154-9b6b-5cdb322f7c7d,flight.photos,expired,112,24,6,"GoDaddy.com, LLC",31/10/2020 03:38,31/10/2025 03:38
 46cfcb48-a6b8-401a-8fee-eb3a2f00f293,flight.pictures,available,112,24,6,,,
 f5f5cd15-e494-47ba-9654-c29842406e09,flight.pizza,available,112,24,6,,,
 eb7f4614-c34c-425d-a917-55e0d0cda207,flight.place,premium,112,24,6,,,
@@ -996,6 +999,3 @@ bd5b1052-310d-4363-9d98-acd3ed7a9640,flight.social,resell,112,24,6,"Xiamen China
 01f3b485-5190-4455-ae55-59380237d388,flight.solar,available,112,24,6,,,
 150eb2cc-ee95-41e5-a40c-0f36ef53b4ff,flight.solutions,resell,112,24,6,"Sav.com, LLC",10/06/2019 09:16,10/06/2026 09:16
 a1b5ffc6-2b88-49db-9dbc-fd32b3aa191c,flight.soy,premium,112,24,6,,,
-77c208d1-50c2-4a51-91e8-dc7f2e974ca1,flight.space,premium,112,24,6,,,
-9e0d47c8-1c94-4245-8bcd-abc190cee7be,flight.spot,premium,112,24,6,,,
-77e05c5a-916a-4b47-9e3e-77bcfdbc5bde,flight.srl,available,112,24,6,,,
