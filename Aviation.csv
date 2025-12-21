@@ -746,7 +746,7 @@ a1c216cf-d4d3-4982-b985-b560f52d9c04,flight.bz,resell,112,24,6,Realtime Register
 96ce3ddb-1938-4be5-b812-9830728ebb71,flight.camp,sold,112,24,6,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,30/09/2025 15:15,30/09/2026 15:15
 bdc7a429-238e-47a3-bec8-bd90ceacaf21,flight.capital,resell,112,24,6,"Spaceship, Inc.",12/09/2025 01:00,12/09/2026 01:00
 4c0939e3-bf0f-4c60-8d88-f87d667f9eed,flight.car,available,112,24,6,,,
-c6cb7b2e-ba71-4d59-8c69-258bb2f639f7,flight.cards,available,112,24,6,,,
+c6cb7b2e-ba71-4d59-8c69-258bb2f639f7,flight.cards,available,112,24,6,PDR Ltd. d/b/a PublicDomainRegistry.com,16/12/2025 07:57,16/12/2026 07:57
 70628e5b-2849-445b-997f-3dcc2e667ac5,flight.care,resell,112,24,6,"Sav.com, LLC - 41",19/03/2025 15:15,19/03/2026 15:15
 b7f362df-31b3-4a95-a252-0fcdc6240fcb,flight.cars,available,112,24,6,,,
 14d7bd81-4c68-4f34-82b4-95deaed57bd6,flight.casa,sold,112,24,6,Dynadot Inc,23/10/2025 17:03,23/10/2026 17:03
@@ -757,7 +757,7 @@ dd53aff5-7399-4c7e-8aaf-0a18769b8fe5,flight.casino,premium,112,24,6,,,
 3339d5cd-f03f-41da-b088-ab8f8e920d72,flight.charity,available,112,24,6,,,
 b56b096f-8b0a-4e28-a29a-bab51dd69a6b,flight.cheap,resell,112,24,6,Vautron Rechenzentrum AG,29/07/2015 16:00,29/07/2026 16:00
 20f362fa-f06c-4cbe-9aea-ad31ed4f79f0,flight.christmas,available,112,24,6,,,
-b3451acd-3409-4dfe-8401-6c061838a202,flight.church,expiring,112,24,6,"GoDaddy.com, LLC",16/12/2024 00:40,16/12/2025 00:40
+b3451acd-3409-4dfe-8401-6c061838a202,flight.church,sold,112,24,6,"GoDaddy.com, LLC",16/12/2024 00:40,16/12/2026 00:40
 de2096d2-d609-4661-9c29-f4fa88e4ce73,flight.claims,expiring,112,24,6,Mesh Digital Limited,03/09/2014 16:10,03/09/2025 16:10
 8f955c5f-05cb-434f-8a9d-b04dffbe41e0,flight.cleaning,available,112,24,6,,,
 ca992caa-877f-4cea-8808-8048ec9b8b68,flight.click,resell,112,24,6,"Dynadot, LLC",25/11/2014 16:00,25/11/2026 16:00
@@ -770,7 +770,7 @@ a189d5a8-6b8b-44bd-a0c3-51b9e025d795,flight.computer,sold,112,24,6,"GoDaddy.com,
 25502678-242b-4f3a-90de-1b9aa34b984e,flight.condos,available,112,24,6,,,
 7aa7a415-9aba-48e4-8c79-17db1dc5c369,flight.construction,available,112,24,6,,,
 19854669-6cec-49d5-a876-66f4f4feb717,flight.consulting,premium,112,24,6,,,
-055cf707-5455-4e58-82f6-d7b5a74f4487,flight.contact,expiring,112,24,6,"Go France Domains, LLC",09/12/2020 16:00,09/12/2025 16:00
+055cf707-5455-4e58-82f6-d7b5a74f4487,flight.contact,sold,112,24,6,"Go France Domains, LLC",09/12/2020 16:00,09/12/2026 16:00
 c1481d84-ab6d-43b0-bfa1-f4c5695e694c,flight.contractors,available,112,24,6,,,
 09f96b4e-6aa6-4a91-94f9-394a8996c092,flight.cooking,available,112,24,6,,,
 19329824-c4df-4304-8d35-872fdb97b63c,flight.cool,available,112,24,6,,,
@@ -936,7 +936,7 @@ b5e10f91-16db-403b-85be-9919d8c2c7f5,flight.music,premium,112,24,6,,,
 48cd2ba4-a6fb-402f-b379-d44d25f782d1,flight.mx,resell,112,24,6,GoDaddy.com,18/11/2010 00:00,17/11/2026 00:00
 c38e5c14-8836-4c97-93b0-504df6db10e8,flight.name,premium,112,24,6,,,
 71ff8f1c-eea0-4cdc-a363-e0ea8ec00361,flight.navy,available,112,24,6,,,
-8a9cab9c-baf6-4944-905f-60f417f0617c,flight.network,sold,112,24,6,Dynadot Inc,07/12/2021 19:04,07/12/2026 19:04
+8a9cab9c-baf6-4944-905f-60f417f0617c,flight.network,resell,112,24,6,Dynadot Inc,07/12/2021 19:04,07/12/2026 19:04
 2d136ccf-284f-46d1-8904-15f5620f18ba,flight.news,premium,112,24,6,,,
 b5dfe948-1c23-4361-9bba-fb9f607b5918,flight.nexus,premium,112,24,6,,,
 355738d7-13a8-468e-ad98-6b7f58f812b1,flight.ngo,available,112,24,6,,,
@@ -990,7 +990,7 @@ f8583e1d-61ea-440d-a576-98e80ef40fbf,flight.restaurant,available,112,24,6,,,
 beaf7f4a-9769-473c-b91f-b310b19c19d4,flight.rodeo,premium,112,24,6,,,
 893fd151-c089-4b43-8c25-473669e24cac,flight.rsvp,premium,112,24,6,,,
 9f88194b-59e2-409c-8a82-f6acd677d75c,flight.sale,premium,112,24,6,,,
-2aef4e2c-bc9b-4711-a68f-3d827df4b562,flight.salon,resell,112,24,6,"Sav.com, LLC",18/01/2025 22:26,18/01/2026 22:26
+2aef4e2c-bc9b-4711-a68f-3d827df4b562,flight.salon,expiring,112,24,6,"Sav.com, LLC",18/01/2025 22:26,18/01/2026 22:26
 ce34e76b-880a-4adf-b5f0-1e3a92cc2569,flight.sarl,available,112,24,6,,,
 dc3f99b7-107f-469e-be49-25fbb4d68198,flight.sbs,premium,112,24,6,,,
 e8cf8003-3fc5-4adf-90de-7ab91779171a,flight.school,resell,112,24,6,"Sav.com, LLC - 20",23/05/2025 15:15,23/05/2026 15:15
