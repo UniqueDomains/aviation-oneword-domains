@@ -407,7 +407,7 @@ f80b9e25-4077-48d0-8388-916eb5266921,air.bargains,premium,84,36,3,,,
 b1d3a6b0-f9b1-4b25-9525-80b6b6fac6ef,air.bayern,premium,84,36,3,,,
 2469feb8-510c-47cd-8a07-1dee5e531b8c,air.beauty,resell,84,36,3,"Spaceship, Inc.",03/03/2021 05:10,03/03/2026 23:59
 4d8ae14f-5c9b-43c3-b2b4-b45f94a16ce7,air.beer,premium,84,36,3,,,
-f186ab33-ffb8-4189-b570-01243b692100,air.berlin,expiring,84,36,3,,19/12/2014 12:43,19/12/2025 12:43
+f186ab33-ffb8-4189-b570-01243b692100,air.berlin,sold,84,36,3,,19/12/2014 12:43,19/12/2026 12:43
 0c6c1e1f-20df-445b-a624-b41602e243c6,air.bike,sold,84,36,3,Dynadot Inc,20/05/2016 05:22,20/05/2026 05:22
 4c92e519-aaa8-408e-b03e-2e0479fe8287,air.bingo,sold,84,36,3,"NameCheap, Inc.",24/11/2025 12:01,24/11/2026 12:01
 bd1e8e32-cdb6-4923-a133-fdb5d322bfab,air.black,resell,84,36,3,"NameCheap, Inc.",21/05/2015 04:45,21/05/2026 04:45
@@ -435,7 +435,7 @@ b378e418-b828-4a66-9540-be24408363af,air.casino,resell,84,36,3,Dynadot Inc,27/05
 76357110-68a3-4887-a66e-8c9493248a55,air.cheap,premium,84,36,3,,,
 78fbbef6-7be6-4559-b5ad-84bbda77ac16,air.christmas,sold,84,36,3,Namecheap,05/09/2025 11:08,05/09/2026 23:59
 e1118ce4-53ad-40ab-b7c7-4e920a0f8624,air.claims,expired,84,36,3,Porkbun LLC,12/10/2022 16:37,12/10/2025 16:37
-84be71d8-9137-4243-80ca-b40f40d58030,air.cleaning,resell,84,36,3,Porkbun LLC,20/01/2025 23:11,20/01/2026 23:11
+84be71d8-9137-4243-80ca-b40f40d58030,air.cleaning,expiring,84,36,3,Porkbun LLC,20/01/2025 23:11,20/01/2026 23:11
 4a4371a4-323d-44c6-8025-ff16629bab57,air.click,sold,84,36,3,"Dynadot, LLC",09/02/2021 08:31,09/02/2026 08:31
 2ffd333e-5e95-4806-b8fb-c0e3dcf7d305,air.clinic,premium,84,36,3,,,
 4e1f3f6f-8977-470a-8ad6-2fcc067e99e2,air.clothing,premium,84,36,3,,,
@@ -456,7 +456,7 @@ e2eef333-4285-4082-8c45-ce970b19c13b,air.cruises,premium,84,36,3,,,
 90b2b5a5-4cee-4480-aa2c-8beb7b8a2c7a,air.dad,premium,84,36,3,,,
 06da8bc8-fedf-4278-a252-a47870ac6cc7,air.dance,sold,84,36,3,Dynadot Inc,21/05/2014 17:00,21/05/2026 17:00
 53e82e2d-04c8-43bb-983c-60061776e5e7,air.dating,premium,84,36,3,,,
-bbfc6e2d-dbd6-461b-a5e8-4b617ae700b5,air.day,expiring,84,36,3,Porkbun LLC,17/12/2024 20:18,17/12/2025 20:18
+bbfc6e2d-dbd6-461b-a5e8-4b617ae700b5,air.day,sold,84,36,3,Porkbun LLC,17/12/2024 20:18,17/12/2026 20:18
 8baccb19-7214-4a6e-9313-36b729894b43,air.deal,premium,84,36,3,,,
 14e9c4dd-8fec-4db9-979a-526b99d8eaa2,air.dealer,premium,84,36,3,,,
 080a42ba-6830-4a6f-ae9a-56476d504703,air.degree,available,84,36,3,,,
@@ -470,8 +470,8 @@ bddc6ce9-caf4-49d2-a62d-39e9bd3cf72b,air.diamonds,available,84,36,3,,,
 ac6ed96c-bff4-4c18-a28d-b5c74122b15a,air.diet,sold,84,36,3,Namecheap,21/11/2025 14:08,21/11/2026 23:59
 069bdac9-0fc2-40d4-9a12-d66ce92716ce,air.discount,premium,84,36,3,,,
 104a4135-7020-4a0f-8e43-c8945201c048,air.diy,premium,84,36,3,,,
-93289a24-08db-4be4-9e5e-d335361756c7,air.doctor,expired,84,36,3,"NameCheap, Inc.",03/10/2024 20:19,03/10/2025 20:19
-fa5fdadc-9f21-49b9-aff6-7a92406771cc,air.dog,sold,84,36,3,"Sav.com, LLC - 17",05/11/2024 17:00,05/11/2026 17:00
+93289a24-08db-4be4-9e5e-d335361756c7,air.doctor,premium,84,36,3,,,
+fa5fdadc-9f21-49b9-aff6-7a92406771cc,air.dog,expired,84,36,3,"Sav.com, LLC - 17",05/11/2024 17:00,05/11/2025 17:00
 e47ec499-ed8c-41b1-be84-151bba4f9c6e,air.domains,resell,84,36,3,"Sav.com, LLC - 33",23/10/2025 15:15,23/10/2026 15:15
 59475b1f-defd-4d13-a56e-c5acedfb246d,air.download,premium,84,36,3,,,
 9ce57c83-67c4-4933-b37d-5583702f3b27,air.earth,premium,84,36,3,,,
@@ -520,7 +520,7 @@ fb09d121-d5e7-467c-800d-fc24372c7f2f,air.gratis,premium,84,36,3,,,
 392bbe51-9fcc-4fb1-97ae-4bb5dc0fe290,air.gripe,premium,84,36,3,,,
 d7e7f47f-5476-43b7-a7a2-1603e901ebaa,air.group,resell,84,36,3,Porkbun LLC,05/06/2016 16:00,05/06/2026 16:00
 d5f94901-8047-4ef3-85a4-65578d77f009,air.guru,sold,84,36,3,"NameCheap, Inc.",21/09/2022 20:49,21/09/2026 20:49
-2f19c91a-3622-46ca-bb94-e10756b2db08,air.haus,expired,84,36,3,"NameCheap, Inc.",04/10/2024 06:34,04/10/2025 06:34
+2f19c91a-3622-46ca-bb94-e10756b2db08,air.haus,premium,84,36,3,,,
 d1fa8d6e-8b6e-46dd-b092-69920916a113,air.healthcare,premium,84,36,3,,,
 39a0cbab-745a-49f6-a4f4-358e9ef9ad74,air.hiphop,premium,84,36,3,,,
 ff55fb56-cf21-4774-bc57-56e0fd38952a,air.hiv,available,84,36,3,,,
@@ -552,7 +552,7 @@ b11e140a-a0c1-4cdd-8fe1-7f828d58ace9,air.lease,premium,84,36,3,,,
 74e5e407-165c-4c83-82eb-c8418d798a5c,air.life,resell,84,36,3,"Chengdu West Dimension Digital Technology Co., Ltd.",20/09/2020 08:06,20/09/2026 08:06
 109b7cac-9521-452c-9506-b371d0034d93,air.lifestyle,premium,84,36,3,,,
 f7c56932-ed49-4f91-b9a2-23a327d2be93,air.lighting,premium,84,36,3,,,
-3b0a0704-b2f2-4376-a8e3-f7504b24c484,air.live,sold,84,36,3,"NameCheap, Inc.",07/12/2025 15:15,07/12/2026 15:15
+3b0a0704-b2f2-4376-a8e3-f7504b24c484,air.live,resell,84,36,3,"NameCheap, Inc.",07/12/2025 15:15,07/12/2026 15:15
 dde884f3-c3a5-4f57-b7c4-83bf86e25e0d,air.living,premium,84,36,3,,,
 9bb37953-7de5-4711-8498-432773fb5dbf,air.loan,premium,84,36,3,,,
 76e7123a-359a-469b-9177-0e7f9b8e2ed0,air.loans,sold,84,36,3,"GoDaddy.com, LLC",18/09/2021 10:41,18/09/2026 10:41
@@ -598,7 +598,7 @@ bc575006-231b-4e86-9321-e29eedef3218,air.pictures,sold,84,36,3,Dynadot Inc,08/10
 316aedcb-585e-48d7-9f34-c8e9a3f495ba,air.pink,expired,84,36,3,"Xiamen ChinaSource Internet Service Co., Ltd",28/06/2024 17:00,28/06/2025 17:00
 2837a376-2aa6-450d-955f-1d771f036f63,air.pizza,premium,84,36,3,,,
 380b1a5a-d6cf-41d8-be33-75fe082121c3,air.plumbing,expiring,84,36,3,Squarespace Domains II LLC,11/01/2022 23:25,11/01/2026 23:25
-007fd1d4-7f1d-4cf7-b6c7-b20c9b27c8a2,air.plus,expired,84,36,3,Squarespace Domains II LLC,29/09/2018 02:46,29/09/2025 02:46
+007fd1d4-7f1d-4cf7-b6c7-b20c9b27c8a2,air.plus,premium,84,36,3,,,
 61681758-66c8-4689-a696-b94a18241bb6,air.poker,premium,84,36,3,,,
 9be15e56-391c-4b61-9b82-fae38ba5a337,air.porn,premium,84,36,3,,,
 5d3291c2-5b52-47cb-a8e8-ecacda2902c2,air.press,premium,84,36,3,,,
@@ -625,7 +625,7 @@ d9b747cf-ce31-413d-aaa2-2947d3aebac1,air.rest,sold,84,36,3,"Spaceship, Inc.",19/
 b862e326-ebaa-4d9b-9735-adb07ede041d,air.rip,resell,84,36,3,"Sav.com, LLC",23/01/2025 17:31,23/01/2026 17:31
 14bb085b-6414-429e-a5a0-e856c14c15e5,air.rocks,expiring,84,36,3,Porkbun LLC,03/01/2021 15:53,03/01/2026 15:53
 70e06265-6641-4e8e-96b4-a36030ee931a,air.rsvp,premium,84,36,3,,,
-2c98abe9-0b7d-4cc8-ae44-7f51f0a9cd93,air.run,resell,84,36,3,"Spaceship, Inc.",01/02/2021 16:02,01/02/2026 16:02
+2c98abe9-0b7d-4cc8-ae44-7f51f0a9cd93,air.run,resell,84,36,3,"Spaceship, Inc.",01/02/2021 16:02,01/02/2027 16:02
 9d30ea4a-2f3f-4a42-82bb-cf0ccb6079ef,air.sale,premium,84,36,3,,,
 b439e3c7-f960-47c4-88df-3085bc682b84,air.salon,expiring,84,36,3,Dynadot Inc,13/01/2025 18:05,13/01/2026 18:05
 c2816c0f-084d-42f0-a95a-3ed9a70455df,air.sarl,premium,84,36,3,,,
@@ -637,7 +637,7 @@ f2d99640-ebb3-452b-886a-6e4da0eae031,air.sexy,premium,84,36,3,,,
 ed2f3a2c-eab6-4411-a003-d6edbde64799,air.shiksha,available,84,36,3,,,
 7d5f2418-720d-427a-97c8-9c992ecff2bb,air.shoes,resell,84,36,3,Porkbun LLC,11/03/2025 20:00,11/03/2026 20:00
 d94fc8bd-06dd-4e97-9059-b1e4e4f6d38a,air.shopping,sold,84,36,3,united-domains GmbH,28/09/2016 16:00,28/09/2026 16:00
-378996cb-dbe7-4487-b434-94d1c67c637a,air.singles,premium,84,36,3,,,
+378996cb-dbe7-4487-b434-94d1c67c637a,air.singles,resell,84,36,3,"Sav.com, LLC - 20",20/12/2025 15:15,20/12/2026 15:15
 2beeb8b1-199f-4960-b3b0-bb75e4daa5a3,air.site,resell,84,36,3,Radix FZC,18/10/2022 07:16,18/10/2026 23:59
 e604e2e5-e4df-45ad-a74e-12684ab464be,air.ski,premium,84,36,3,,,
 cee92ba6-9210-461c-b01e-ece1f540790d,air.skin,resell,84,36,3,"Spaceship, Inc.",21/10/2024 00:02,21/10/2026 23:59
@@ -678,7 +678,7 @@ d8da83d1-bd88-409a-88ac-ccb38629a4f4,air.toys,expired,84,36,3,united-domains Gmb
 6980bb65-68a0-48ad-b39e-75c3416d8a0d,air.tube,premium,84,36,3,,,
 cf4773b6-09e2-4f98-b81b-fe42c6dcebec,air.vacations,premium,84,36,3,,,
 fe3994ec-b42a-47fb-99b4-37d90d9418a3,air.vana,premium,84,36,3,,,
-7b5951f1-82f3-4a44-a4cf-ced61ead4ae3,air.vc,resell,84,36,3,"Sav.com, LLC",16/01/2015 04:41,16/01/2026 04:41
+7b5951f1-82f3-4a44-a4cf-ced61ead4ae3,air.vc,resell,84,36,3,"Sav.com, LLC",16/01/2015 04:41,16/01/2027 04:41
 9a8b2148-4f86-47c6-81e0-dab0559dbd2e,air.ventures,sold,84,36,3,"Sav.com, LLC - 18",21/05/2024 15:15,21/05/2026 15:15
 393ce07b-050a-410f-96e3-7a7302a69190,air.viajes,available,84,36,3,,,
 9a812ae1-20fb-46b8-9174-42cf4f833a09,air.vin,available,84,36,3,,,
