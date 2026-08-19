@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| jet.actor      | available | $9.48     | $54.98        | medium         | medium | 3      | namecheap                                                 |
-| jet.business   | resell    | —         | —             | medium         | medium | 3      | Sav.com, LLC                                              |
-| jet.art        | premium   | $3,450    | $83.30        | medium         | medium | 3      | namesilo                                                  |
-| jet.apartments | available | $19.99    | $83.99        | medium         | medium | 3      | name.com                                                  |
-| jet.ca         | resell    | —         | —             | medium         | medium | 3      | Go Daddy Domains Canada, Inc                              |
-| jet.associates | premium   | $78.54    | $78.54        | medium         | medium | 3      | namesilo                                                  |
-| jet.army       | available | $17.48    | $48.98        | medium         | medium | 3      | namecheap                                                 |
-| jet.cash       | resell    | —         | —             | medium         | medium | 3      | Spaceship, Inc.                                           |
-| jet.baby       | premium   | $625      | $94.99        | medium         | medium | 3      | name.com                                                  |
-| jet.auto       | available | $1,999.99 | $2,199        | medium         | medium | 3      | namesilo                                                  |
-| jet.email      | resell    | —         | —             | medium         | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd              |
-| jet.berlin     | premium   | $401.70   | $401.70       | medium         | medium | 3      | namecheap                                                 |
-| jet.camera     | available | $21.99    | $75.99        | medium         | medium | 3      | name.com                                                  |
-| jet.energy     | resell    | —         | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| jet.blog       | premium   | $3,145    | $12,500       | medium         | medium | 3      | name.com                                                  |
-| jet.coupons    | available | $2.98     | $59.98        | medium         | medium | 3      | namecheap                                                 |
-| jet.financial  | resell    | —         | —             | medium         | medium | 3      | Dynadot Inc                                               |
-| jet.cam        | premium   | $1,875    | $29.99        | medium         | medium | 3      | name.com                                                  |
-| jet.creditcard | available | $9.99     | $236.99       | medium         | medium | 3      | name.com                                                  |
-| jet.foundation | resell    | —         | —             | medium         | medium | 3      | Dynadot Inc                                               |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| travel.sh       | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC                                          |
+| air.realty      | available | $109.99   | $299          | high           | medium | 3      | namesilo                                                  |
+| technology.army | resell    | $48.98    | —             | high           | low    | 10     | GoDaddy.com, LLC                                          |
+| air.airforce    | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
+| air.viajes      | available | $37.99    | $37.99        | high           | medium | 3      | namesilo                                                  |
+| air.holiday     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
+| air.army        | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
+| jet.army        | available | $17.48    | $48.98        | medium         | medium | 3      | namecheap                                                 |
+| jet.airforce    | resell    | —         | —             | medium         | medium | 3      | Dynadot Inc                                               |
+| air.navy        | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
+| jet.car         | available | $1,999.99 | $2,199        | medium         | medium | 3      | namesilo                                                  |
+| jet.app         | resell    | —         | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| air.reise       | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
+| jet.christmas   | available | $1.80     | $49.98        | medium         | medium | 3      | namecheap                                                 |
+| jet.biz         | resell    | —         | —             | medium         | medium | 3      | GoDaddy.com, LLC                                          |
+| air.reisen      | premium   | $26       | $26           | high           | medium | 3      | namecheap                                                 |
+| jet.hockey      | available | $14.99    | $77.99        | medium         | medium | 3      | name.com                                                  |
+| jet.center      | resell    | —         | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| air.vacations   | premium   | $260      | $260          | high           | medium | 3      | namecheap                                                 |
+| jet.hospital    | available | $55.98    | $71.98        | medium         | medium | 3      | namecheap                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
