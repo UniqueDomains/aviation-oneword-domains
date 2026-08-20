@@ -1,10 +1,10 @@
-# One-Word Aviation Domain Names Across 506 TLDs (134,716)
+# One-Word Aviation Domain Names Across 506 TLDs (136,705)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-134%2C716%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-136%2C705%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated list of one-word domain names built around the aviation keyword, spanning 506 different TLDs. The median asking price across this selection is about $873. Updated daily, it gives investors and founders a quick view of pricing spread and TLD coverage for aviation-related one-word domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **134,716 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **136,705 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 134,716 domains · **Median ask:** $806.90 · **High-demand under $2,500:** 294
+**Public extract:** 1,000 rows · **Live catalog:** 136,705 domains · **Median ask:** $796.50 · **High-demand under $2,500:** 294
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/sector/aviation`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| travel.sh       | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC                                          |
-| air.realty      | available | $109.99   | $299          | high           | medium | 3      | namesilo                                                  |
-| technology.army | resell    | $48.98    | —             | high           | low    | 10     | GoDaddy.com, LLC                                          |
-| air.airforce    | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
-| air.viajes      | available | $37.99    | $37.99        | high           | medium | 3      | namesilo                                                  |
-| air.holiday     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
-| air.army        | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
-| jet.army        | available | $17.48    | $48.98        | medium         | medium | 3      | namecheap                                                 |
-| jet.airforce    | resell    | —         | —             | medium         | medium | 3      | Dynadot Inc                                               |
-| air.navy        | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
-| jet.car         | available | $1,999.99 | $2,199        | medium         | medium | 3      | namesilo                                                  |
-| jet.app         | resell    | —         | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| air.reise       | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
-| jet.christmas   | available | $1.80     | $49.98        | medium         | medium | 3      | namecheap                                                 |
-| jet.biz         | resell    | —         | —             | medium         | medium | 3      | GoDaddy.com, LLC                                          |
-| air.reisen      | premium   | $26       | $26           | high           | medium | 3      | namecheap                                                 |
-| jet.hockey      | available | $14.99    | $77.99        | medium         | medium | 3      | name.com                                                  |
-| jet.center      | resell    | —         | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| air.vacations   | premium   | $260      | $260          | high           | medium | 3      | namecheap                                                 |
-| jet.hospital    | available | $55.98    | $71.98        | medium         | medium | 3      | namecheap                                                 |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| jet.army          | available | $17.48    | $48.98        | medium         | medium | 3      | namecheap                                                 |
+| jet.airforce      | resell    | —         | —             | medium         | medium | 3      | Dynadot Inc                                               |
+| jet.associates    | premium   | $78.54    | $78.54        | medium         | medium | 3      | namesilo                                                  |
+| jet.car           | available | $1,999.99 | $2,199        | medium         | medium | 3      | namesilo                                                  |
+| jet.bot           | resell    | —         | —             | medium         | medium | 3      | Unstoppable Domains Inc.                                  |
+| jet.baby          | premium   | $625      | $94.99        | medium         | medium | 3      | name.com                                                  |
+| jet.creditcard    | available | $9.99     | $236.99       | medium         | medium | 3      | name.com                                                  |
+| jet.ca            | resell    | —         | —             | medium         | medium | 3      | Go Daddy Domains Canada, Inc                              |
+| jet.bar           | premium   | $787.50   | $1,125        | medium         | medium | 3      | name.com                                                  |
+| jet.desi          | available | $19.98    | $22.98        | medium         | medium | 3      | namecheap                                                 |
+| jet.digital       | resell    | —         | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| jet.beauty        | premium   | $812.50   | $812.50       | medium         | medium | 3      | name.com                                                  |
+| jet.diamonds      | available | $54.99    | $54.99        | medium         | medium | 3      | namesilo                                                  |
+| jet.international | resell    | —         | —             | medium         | medium | 3      | Sav.com, LLC - 9                                          |
+| jet.blog          | premium   | $3,145    | $12,500       | medium         | medium | 3      | name.com                                                  |
+| jet.equipment     | available | $19.99    | $41.99        | medium         | medium | 3      | name.com                                                  |
+| jet.marketing     | resell    | —         | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| jet.boo           | premium   | $623.75   | $623.75       | medium         | medium | 3      | name.com                                                  |
+| jet.florist       | available | $14.99    | $46.99        | medium         | medium | 3      | name.com                                                  |
+| jet.money         | resell    | —         | —             | medium         | medium | 3      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 134,716 live domains                       |
+| 1,000-row public sample | 136,705 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 294 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Aviation Domain Names Across 506 TLDs*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Aviation Domain Names Across 506 TLDs*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
