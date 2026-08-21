@@ -1,10 +1,10 @@
-# One-Word Aviation Domain Names Across 506 TLDs (137,245)
+# One-Word Aviation Domain Names Across 506 TLDs (137,653)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-137%2C245%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-137%2C653%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This is a curated list of one-word domain names built around the aviation keyword, spanning 506 different TLDs. The median asking price across this selection is about $873. Updated daily, it gives investors and founders a quick view of pricing spread and TLD coverage for aviation-related one-word domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **137,245 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **137,653 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 137,245 domains · **Median ask:** $793.43 · **High-demand under $2,500:** 294
+**Public extract:** 1,000 rows · **Live catalog:** 137,653 domains · **Median ask:** $791.01 · **High-demand under $2,500:** 294
 
 **Last updated:** 2026-08-21
 **Canonical page:** `https://unique.domains/domains/sector/aviation`
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 137,245 live domains                       |
+| 1,000-row public sample | 137,653 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 294 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
