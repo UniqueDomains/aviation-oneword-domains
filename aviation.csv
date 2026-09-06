@@ -5,7 +5,6 @@ f7b9b403-8383-4b7f-8fa5-b35d45164fde,plane.flights,premium,118.8,118.8,high,low,
 f54ea584-99d0-4a35-873b-a5f1969188ce,pilot.airforce,premium,854,854,high,low,5,namesilo,,
 59e26c33-24d7-4cf8-a0b7-98b68f50db57,flight.airforce,premium,85.8,85.8,high,low,6,namecheap,,
 35100472-bf96-4d78-947b-55160236575b,terminal.flights,available,59.99,75.99,high,low,8,name.com,,
-bcbdeae7-6afb-48b9-b61f-aa9c7f7eaea8,flyer.flights,available,23.98,75.98,medium,low,5,namecheap,,
 cc55c33b-3206-46c1-b066-6c76272693ea,traffic.flights,available,59.99,,high,low,7,name.com,,
 5e4c9b88-be27-45bc-98ca-bdfb5f7e8391,plane.airforce,premium,78.54,78.54,high,low,5,namesilo,,
 de95b9f2-814b-40e8-bb75-6389e2d3275e,safety.flights,premium,242,242,high,low,6,namesilo,,
@@ -48,7 +47,6 @@ a7b7d35e-49ea-4b46-8022-0c776a39351f,tower.flights,available,,,high,low,5,,,
 4c42e466-82e1-4a40-979c-076a8c0be819,pilot.holiday,available,9.99,,high,low,5,name.com,,
 2cde9508-ea6d-4d08-8391-b80f6fbf414a,safety.navy,available,41.99,41.99,high,low,6,namesilo,,
 27aa2691-62cf-4c13-9a49-d204e66490fa,pilot.viajes,available,37.99,37.99,high,low,5,namesilo,,
-734872c6-6960-44c7-a356-5fd4a62bda7a,gear.cloud,resell,,,high,low,4,"XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD.",29/04/2026 08:21,29/04/2027 08:21
 f3a6fb11-50c2-4abd-abbf-4d1d10b30982,flight.reisen,available,3.99,20.99,high,low,6,namesilo,,
 7b9014c6-1fa9-4e10-8769-7e8e3c7dd32a,plane.army,available,19.99,,high,low,5,name.com,,
 b65f099a-d577-4e99-b917-5b134380ef97,tail.flights,available,58.99,58.99,high,low,4,namesilo,,
@@ -75,7 +73,6 @@ a5cdccac-4eb0-430c-8cd6-6595e7c7c7b6,plane.vacations,available,9.99,,high,low,5,
 eb142aef-af23-40d4-90c0-3b00675403e5,deck.navy,available,42.99,,high,low,4,name.com,,
 7932ef98-4eab-48bb-a190-8859c959c54b,vehicle.navy,available,41.99,41.99,high,low,7,namesilo,,
 e3df89e4-297f-45bf-953b-0baf2bacf986,plane.viajes,available,37.99,37.99,high,low,5,namesilo,,
-2ac80683-06f7-401f-9415-a852c557499d,systems.airforce,available,103.99,103.99,low,low,7,namesilo,,
 9d6a492c-5eb8-4d0c-ad19-9c5c12efece4,terminal.travel,available,39.99,189.99,high,low,8,name.com,,
 29a90575-c795-4cfe-b90d-df7a3c68238d,flight.systems,resell,,,high,low,6,"Spaceship, Inc.",18/03/2014 15:49,18/03/2027 15:49
 f6ac1273-3585-40e7-b7ad-cdbe10ab2e26,landing.flights,available,58.99,58.99,high,low,7,namesilo,,
@@ -267,7 +264,6 @@ e5f5ca9f-d95e-4ce1-b8e9-9610c9790b55,flight.ltd,resell,,,high,low,6,Alibaba Clou
 cf10ca0a-60c5-4574-ae22-04ee8b87b977,room.tech,premium,3125,12500,high,low,4,name.com,,
 917fd283-9f50-45de-a171-061b328bd8dc,course.flights,available,58.99,58.99,high,low,6,namesilo,,
 14b81db2-fb65-4b4c-9805-ffd6d80c667d,flight.biz,resell,,,high,low,6,Squarespace Domains II LLC,26/08/2022 00:00,26/08/2026 00:00
-249797a3-f549-474c-be23-8f1780db6b4a,flight.insure,available,9.99,,high,low,6,name.com,,
 1bcb8fa0-3712-4751-b589-9e51cf4938d1,plane.engineer,available,13.99,,high,low,5,name.com,,
 4286613c-69ba-4277-bda6-583a88d6aa54,airport.airforce,available,103.99,103.99,medium,low,7,namesilo,,
 f7bd3add-458f-4891-a678-a3d252d91720,plane.net,resell,,,high,low,5,"GoDaddy.com, LLC",12/02/1998 05:00,11/02/2027 05:00
@@ -298,16 +294,13 @@ e017ca34-bae4-4d16-be3c-776b2780a7ff,flight.company,resell,,,high,low,6,Hosting 
 d5f040d8-5fff-41fa-8645-3a47542260ce,plane.taxi,available,10.99,,high,low,5,name.com,,
 1ce20151-9e26-46d1-9cb6-bedc876d888f,plane.holdings,available,64.99,64.99,high,low,5,namesilo,,
 2e36534f-2ae0-45fe-8216-daccbbe77a5c,carrier.airforce,premium,118.8,118.8,medium,low,7,namesilo,,
-ebf0b2d7-efda-4e7d-bd61-cbf6002961a3,flights.taxi,available,10.99,,medium,low,7,name.com,,
 f7bbf7ce-ea76-493b-a62b-90e405f10bff,control.delivery,available,8.99,,high,low,7,name.com,,
 3446e7fb-2a0d-483f-8434-0073287519f3,fuel.delivery,resell,,,high,low,4,"Spaceship, Inc.",08/02/2015 23:14,08/02/2027 23:14
 ce2a77ca-cd0c-4119-9d6d-dfb4066668aa,travel.parts,premium,82.5,82.5,high,medium,6,name.com,,
-81325c22-7693-416e-ad18-d0623f33a7ed,flights.industries,premium,118.8,118.8,medium,low,7,namesilo,,
 1e400ef9-09d8-453f-a3ae-c231adba69ee,airline.navy,available,41.99,41.99,high,low,7,namesilo,,
 fcc15f5a-1f53-4f36-a7a0-fa48c7b7c1e8,traffic.industries,available,17.49,,high,low,7,name.com,,
 1878980f-303f-4fd3-b650-2b9cf7f51a7c,safety.express,resell,,,high,low,6,Porkbun LLC,16/01/2022 13:15,16/01/2026 13:15
 efab323e-8b88-47e1-8a7b-e43606958832,safety.fast,premium,625,,high,low,6,name.com,,
-8217130c-8e95-4067-b527-b735b4553944,flights.voyage,available,9.99,,medium,low,7,name.com,,
 01b7d792-fd4e-4e97-a431-32af2b37d498,travel.tires,premium,1040,1040,high,medium,6,namecheap,,
 07c22ce9-e8c1-4dc1-b6eb-48f2ab412ece,travel.security,available,1999.99,2049.99,high,medium,6,namesilo,,
 96c42b63-ff52-48a3-a44f-c572041951c4,safety.limo,available,19.99,,high,low,6,name.com,,
@@ -349,7 +342,6 @@ e32c8a0e-31a6-4246-a1d8-250c3fb801cb,traffic.car,available,2400,,high,low,7,name
 34b8e00a-d4a8-41ba-a002-d29bb446a153,speed.flights,available,58.99,58.99,high,low,5,namesilo,,
 5fa6b2cd-a958-40ae-a7a2-941c435f1ae2,terminal.engineer,available,13.99,56.99,high,low,8,name.com,,
 ff24fbae-22a9-442a-b656-b7a5c41958dc,strip.travel,available,39.99,189.99,high,low,5,name.com,,
-ef6d9e81-abb8-4fed-af9e-5f1ac787d8a3,flights.fast,premium,116,118.8,medium,low,7,namesilo,,
 fdbf09b0-6bc9-4600-be5d-64f9dd6c9920,strip.reise,available,99.99,122.99,high,low,5,name.com,,
 fd9ea48d-15e2-4452-a598-01430541af0a,air.reise,premium,128.7,128.7,high,medium,3,namecheap,,
 0f8fabcb-abbc-4759-9797-cd8b24b39bcb,travel.app,resell,,,high,medium,6,"Global Domains International, Inc. DBA DomainCostClub.com",18/07/2023 09:52,18/07/2026 09:52
@@ -368,7 +360,6 @@ f69771f7-0b5b-49c1-8cfb-04edce495adb,radar.airforce,available,134.98,,high,low,5
 0136a7ce-400f-43c1-8357-944427e77abe,pilot.international,available,,,high,low,5,,,
 3463a62b-f3c9-421d-9e88-9ea4c83f4671,flying.technology,resell,,,high,low,6,Dynadot Inc,10/10/2018 19:32,10/10/2026 19:32
 4995f2fb-0e03-43f8-b055-889bd3ca3918,flight.tires,available,5.99,78.99,high,low,6,namesilo,,
-7673bff8-b4a0-407e-8781-e158e68628ce,flightattendants.travel,available,39.99,,medium,low,17,name.com,,
 8de04d68-1664-4bec-9932-7d70dd3c331d,shelter.airforce,available,103.99,103.99,high,low,7,namesilo,,
 e11c2198-89a8-4e7a-bf43-5516f4e5e9c0,terminal.taxi,available,10.99,84.99,high,low,8,name.com,,
 9dd75d46-7509-4d04-b10d-52551159897b,pilot.world,resell,,,high,low,5,"DNSPod, Inc.",11/10/2018 19:14,11/10/2026 19:14
@@ -386,7 +377,6 @@ e9253517-0f36-4e02-ad7e-1457bab932a9,airplane.systems,resell,,,high,low,8,united
 011b9c94-6619-462a-be56-22f431a7936f,control.fast,premium,53.92,53.92,high,low,7,namesilo,,
 b4d532a6-8d8f-4bf0-a922-431b57bcb9f4,flying.express,resell,,,high,low,6,"Sav.com, LLC - 32",04/06/2025 15:15,04/06/2026 15:15
 2d310841-d7fd-4312-b571-c575f90c15f4,fuel.fast,premium,302.5,302.5,high,low,4,namesilo,,
-ebcd2b10-e83c-42fc-a665-8367eb8a3e8e,airline.shop,premium,1250,,high,low,7,name.com,,
 7cac4516-1c88-4672-b516-dcf3ca932f54,plane.energy,available,21.99,,high,low,5,name.com,,
 48469673-2387-4303-b0d9-36f908fbbc65,travel.racing,premium,130,130,high,medium,6,namecheap,,
 9a600236-ca89-4f84-846b-4e6ff1306cd2,pilot.online,premium,1562.5,,high,low,5,name.com,,
@@ -397,7 +387,6 @@ b4153be2-0b1f-482d-8286-00c9c21cad1f,strip.reisen,available,24.99,26.99,high,low
 188c9064-6959-41bb-aaec-2a368380d525,travel.contractors,premium,128.7,128.7,high,medium,6,namecheap,,
 9cc6feed-2dfa-4773-b998-28564dadd6a7,travel.builders,premium,128.7,128.7,high,medium,6,namecheap,,
 e6d6f81e-7846-4006-8b8d-f4b537cd4902,travel.build,premium,650,650,high,medium,6,namecheap,,
-409cc70c-f380-49f1-9d24-c48578c60fb5,flightpath.mobile,available,26.98,,high,low,11,namecheap,,
 67b38a20-7e62-4c3b-bf30-5af8816993ed,safety.car,available,1999.99,2199,high,low,6,namesilo,,
 2f3f61f4-2742-490c-8bb0-307ca226f1dd,traffic.engineer,premium,1250,,high,low,7,name.com,,
 f7ef41ae-9e96-4153-844d-445e79dd5d29,flying.limo,resell,,,high,low,6,"GoDaddy.com, LLC",29/07/2015 10:46,29/07/2026 10:46
@@ -419,13 +408,11 @@ c356146d-b36e-4794-a75e-daad1a0714ba,pilot.racing,premium,116,116,high,low,5,nam
 cbc87170-b949-42f9-af94-85f3a5c5fa53,travel.network,available,,,high,low,6,,,
 91b178c5-13da-4e3f-a49b-4280945df2f8,tail.army,available,19.99,,high,low,4,name.com,,
 d85b1271-14f8-452f-ad83-7246e05c2714,sky.army,premium,854,854,high,medium,3,namesilo,,
-26b23eb8-7383-411d-88e2-8161434bbb50,tower.ryukyu,available,22.98,,high,low,5,namecheap,,
 ef0ded24-11b1-459a-9ed6-c5d82a6fc818,room.reisen,available,3.99,20.99,high,low,4,namesilo,,
 5a0920c0-5064-4981-81ce-76090c90b6d0,flight.at,resell,,,high,low,6,Webagentur.at Internet Services GmbH ( https://nic.at/registrar/25 ),,
 60c4fab6-62df-4908-b7d0-d8f1ba742ef4,pilot.build,premium,625,,high,low,5,name.com,,
 80cd23e5-2846-4144-a135-a1431f7126b1,pilot.contractors,available,9.99,,high,low,5,name.com,,
 6264e813-7e4c-4bfe-89d6-9e6e1d456cee,pilot.builders,premium,118.8,118.8,high,low,5,namesilo,,
-9d082dcd-2bfc-4d87-ac21-817ffa2a7197,flights.business,premium,118.8,118.8,medium,low,7,namesilo,,
 c60b9134-e0d0-425a-a07f-611ac90433dd,travel.im,available,,,high,low,6,,,
 70a0eb25-1a21-4b4c-9823-90315f839b1f,vehicle.it,resell,,,high,low,7,,28/04/2000 00:00,21/10/2026 00:00
 52689d1c-e889-487e-b85e-6ceb0f28ee65,travel.quest,premium,10400,10400,high,medium,6,namecheap,,
@@ -488,7 +475,6 @@ c7bb1e1a-ce43-4db8-978d-467428c79fce,pilot.site,premium,1562.5,,high,low,5,name.
 1630d56a-eae1-4f4d-8dc5-67c114f3d0fa,engineering.tech,premium,1625,3250,high,low,11,namecheap,,
 4eacb9f0-5419-4aaf-9042-fa1478490f7f,military.tech,premium,781.25,,high,low,8,name.com,,
 be4e1c44-51aa-4c28-8f1a-da5e2604a41c,flight.racing,premium,130,130,high,low,6,namecheap,,
-dc502e90-c580-4d9c-b046-f8f76cf24ec3,systems.reise,available,27.89,97.99,low,low,7,namesilo,,
 5cb8f0a5-40fa-42da-8128-5abd7c899c81,pilot.team,resell,,,high,low,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),18/07/2018 08:04,18/07/2026 08:04
 f1dcd60a-b3ea-494f-99c7-1a2ca7a56eb3,pilot.country,available,2450,,high,low,5,namecheap,,
 9e088c81-7d0b-4ba1-b381-8032a45651ba,travel.pw,premium,3250,3250,high,medium,6,namecheap,,
@@ -543,7 +529,6 @@ efda1117-1e44-446d-9c7f-b9d34c475586,sky.reisen,premium,23.6,23.6,high,medium,3,
 0844b698-0a0b-4606-bb15-743f010ce610,control.yachts,premium,812.5,,high,low,7,name.com,,
 5e4ec27c-edcb-4984-b9d9-cc541f4bbf04,flying.yachts,resell,,,high,low,6,"Go Daddy, LLC",26/08/2022 18:24,26/08/2026 23:59
 45357693-50e4-4e4d-9a10-993718aa5a5a,fuel.yachts,available,1.99,15.75,high,low,4,namesilo,,
-21193544-2d1d-43d1-8eaa-05b2ce88e02e,jetfuel.eco,premium,625,,high,low,8,name.com,,
 f448cea6-d21f-4516-b8e2-63c988aa205e,commercial.services,premium,520,520,high,low,10,namecheap,,
 5d874551-8a2c-4126-99f7-f8c05492dcd7,fuel.car,available,1999.99,2199,high,low,4,namesilo,,
 663a310d-d7c0-4068-98f5-c94d46724bc4,control.car,available,1999.99,2199,high,low,7,namesilo,,
@@ -573,7 +558,6 @@ a5822c12-24e3-4066-9224-8aa944a91d8f,traffic.autos,resell,,,high,low,7,"Xiamen C
 011ea993-5212-433c-9268-283178434a05,traffic.dealer,premium,2170,2800,high,low,7,namecheap,,
 e2ad045a-7d29-4424-a71d-a58a52d68d93,traffic.motorcycles,available,1.99,,high,low,7,name.com,,
 db36f3c2-bec7-4bc7-ba4a-3ab1eecfb374,pilot.cv,premium,137.6,80.33,high,low,5,namesilo,,
-4bfc849c-9818-4147-9ee3-d808cce33fa2,flyer.boats,available,1.8,19.98,medium,low,5,namecheap,,
 0883ee00-76d9-43f9-ac72-0f8b1079c673,travel.town,premium,520,520,high,medium,6,namecheap,,
 89c600e7-18c7-41d6-8c25-cb647346b27a,flight.team,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",14/10/2017 16:00,14/10/2026 16:00
 f5655390-fc90-4726-bae0-40db58ae7bc5,flight.country,available,2450,,high,low,6,namecheap,,
@@ -680,7 +664,6 @@ d9ac3b9b-9b19-4d91-a472-0f37ec661c52,safety.motorcycles,resell,,,high,low,6,"Por
 562e0d06-5adf-47e9-b401-982235c0fe0b,flight.cv,premium,1301.53,9.75,high,low,6,namecheap,,
 aa8fa17e-b5d5-444f-8f5e-f3466c8f1aac,travel.link,resell,,,high,medium,6,1API GmbH,27/07/2017 02:47,27/07/2026 02:47
 f42875b0-1f2d-48d3-9be8-020eafb33e99,safety.company,resell,,,high,low,6,"Spaceship, Inc.",27/06/2015 00:42,27/06/2026 00:42
-790dad8e-d492-4aa9-ba6a-5ec8da42b997,flights.autos,premium,812.5,,medium,low,7,name.com,,
 cb631d2f-1967-4a7d-a488-9ea4e9f28330,traffic.zone,resell,,,high,low,7,"DNSPod, Inc.",15/03/2019 23:38,15/03/2027 23:38
 f87ab6a4-d794-4690-803a-53b6a046eb0b,company.airforce,available,103.99,103.99,high,low,7,namesilo,,
 6b55b113-fd31-44ad-9c06-37fb128e6b6d,travel.vana,available,2498,,high,medium,6,namecheap,,
@@ -694,8 +677,6 @@ bce1f1ff-6929-46cd-9ea8-9d7ca815791f,security.army,available,19.99,,high,medium,
 4ae4ae2d-e9fe-4423-bad6-acf6d09a360a,freight.at,available,,,high,high,7,,,
 d103f596-bc46-4927-898b-55836db51757,plane.contractors,available,9.99,,high,low,5,name.com,,
 5b469244-02d0-400d-a88d-5b040e56d320,pilot.click,premium,218.75,,high,low,5,name.com,,
-f6841a8d-dbb8-4715-87be-d1172f8b9750,sky.consulting,resell,,,high,medium,3,Porkbun LLC,26/11/2014 05:04,26/11/2026 05:04
-523e6e45-e490-40b5-b3b8-a2de0289f8bd,flightattendants.reisen,available,3.99,20.99,medium,low,17,namesilo,,
 f015000c-678e-4a5f-8c97-819421661664,deck.solutions,resell,,,high,low,4,"Spaceship, Inc.",26/03/2014 16:51,26/03/2027 16:51
 0a0af4d5-ea0b-4516-ae44-7bd51ef8f720,vehicle.solutions,resell,,,high,low,7,Dynadot Inc,22/10/2020 08:11,22/10/2026 08:11
 14b70ebe-accc-4625-bb01-70dbb76014d0,engine.flights,available,23.98,75.98,medium,low,6,namecheap,,
@@ -752,7 +733,6 @@ fa4170b5-bf69-45b0-8ba9-c16438d43879,commercial.net,resell,,,high,low,10,"GoDadd
 c13218c3-a94a-4b9c-ae5a-d6b3eeee23db,plane.im,available,,,high,low,5,,,
 c3536945-4aea-4334-aa2e-cf66876fb52a,traffic.supply,available,30.99,,high,low,7,name.com,,
 c64d1e54-9fbb-4e0c-93a5-21c4e88d3732,flight.science,premium,3250,130,high,low,6,namecheap,,
-fabb0bfd-13d1-4033-ab9a-47fb6681c9ad,fighter.reise,available,27.89,97.99,low,low,7,namesilo,,
 a8783e3d-3451-4406-a131-884538184f72,travel.storage,available,509.99,529.99,high,medium,6,namesilo,,
 9cc83a9c-d9cf-4343-842a-dd91d9a5e605,fuel.co,resell,,,high,low,4,Hello Internet Corp.,25/02/2010 00:50,24/02/2027 23:59
 2a94e170-c282-4690-bd9d-2d11f9d2c842,trip.yachts,premium,812.5,,high,low,4,name.com,,
@@ -761,7 +741,6 @@ e6ec2e71-0d44-4f06-a1ce-79c49adfc63f,flight.expert,premium,520,520,high,low,6,na
 2d8c3e90-6a3a-47a9-8fa1-e558a924e4aa,plane.surf,available,,,high,low,5,,,
 aa54dd32-e7d0-4faf-b501-fdeed743887d,deck.engineer,available,13.99,,high,low,4,name.com,,
 d88fa225-dcdf-47e8-9000-79a2754f66c4,vehicle.engineer,premium,1300,1300,high,low,7,namecheap,,
-74bda0a5-0433-4e35-9cae-d591fce77ace,jet.cars,available,1999.99,2199,medium,medium,3,namesilo,,
 77d1b326-6da7-4c69-9390-defef9f9f2d1,vehicle.net,resell,,,high,low,7,Tucows Domains Inc.,03/12/1998 05:00,02/12/2026 05:00
 c161f19a-52ec-4f91-854e-6722d28a51f6,landing.travel,available,39.99,,high,low,7,name.com,,
 92c909dc-2316-4cac-bfaf-e789f81d307d,landing.reise,available,27.89,97.99,high,low,7,namesilo,,
@@ -775,7 +754,6 @@ fed71b07-4334-40e1-a57f-6c3b518890b0,flight.photo,premium,130,130,high,low,6,nam
 37a1c667-86af-44f6-a3b3-4a57a7e542b2,traffic.parts,premium,123.75,,high,low,7,name.com,,
 71f6b150-08e1-4c7d-afde-1058dbc12ab3,engine.engineering,available,11.99,,high,low,6,name.com,,
 3855d0d1-b409-47eb-b4ba-cd96fd92bb34,deck.engineering,available,11.99,,high,low,4,name.com,,
-a54eceb6-2288-4cc6-8e71-0d073576d4d5,control.shop,premium,625,,high,low,7,name.com,,
 cec62d2e-27dc-47c1-bbb6-b14ece25ffca,plane.eu,resell,,,high,low,5,"Name: Spaceship, Inc. Website: https://www.spaceship.com/",,
 00c9a244-3da0-4033-95a8-2d622986dbae,technology.tech,premium,1625,6500,medium,low,10,namecheap,,
 5761c1b6-c8fb-4a2c-b642-e9b8f121bb63,pilot.moda,available,19.99,,high,low,5,name.com,,
@@ -790,7 +768,6 @@ b1b2ceb3-a248-4cb2-88cd-80153dc9e3f1,journey.army,available,19.99,,high,low,7,na
 cb8b2fa3-7306-4117-9a8f-99df5211ce5d,travel.berlin,resell,,,high,medium,6,,27/11/2015 20:12,27/11/2027 20:12
 532225b1-78e8-4260-b77c-273e3570c46a,flight.store,premium,781.25,3125,high,low,6,name.com,,
 6a24af8a-a9d6-4095-b519-6f5c9a0b85d7,pilot.hockey,available,14.99,,high,low,5,name.com,,
-a97bb932-902a-442f-a4ad-7db2d884fe9c,transportation.forex,available,19.99,,medium,low,14,name.com,,
 ca992caa-877f-4cea-8808-8048ec9b8b68,flight.click,resell,,,high,low,6,"Dynadot, LLC",25/11/2014 16:00,25/11/2026 16:00
 81b1915c-838c-4733-9447-504ca63b59ee,passenger.it,resell,,,high,high,9,,14/11/2012 15:26,22/11/2025 00:00
 b546af7c-9ca3-472c-ba90-63de488017ae,soaring.it,resell,,,high,high,7,,09/05/2012 02:40,31/05/2026 00:00
@@ -822,7 +799,6 @@ c8ba789d-a35e-43a6-85cb-8a90dcc21821,flight.page,premium,1298.7,1298.7,high,low,
 0464a744-c664-49d8-b389-412717ef120f,flight.website,premium,3250,6500,high,low,6,namecheap,,
 4fb1a159-18a7-415d-ad0f-f5238728cd11,airline.tours,available,9.99,,high,low,7,name.com,,
 a42e2b3a-952f-4c9a-8de6-1a8173108a88,travel.xyz,premium,13000,13000,high,medium,6,namecheap,,
-995409c6-55c7-436b-837c-76f005c210d0,forces.navy,available,42.99,,high,low,6,name.com,,
 6fe28972-2a69-4b40-95b1-ca714fce926b,plane.gallery,available,28.99,28.99,high,low,5,namesilo,,
 2122cf7c-4a99-4e46-82b9-7865e83e60a0,plane.ing,premium,812.5,,high,low,5,name.com,,
 b235c659-18a6-4b84-b2e2-453e3a93806e,travel.consulting,premium,1300,1300,high,medium,6,namecheap,,
@@ -884,8 +860,6 @@ dce85ea8-6023-440e-8ebe-4a1dc04a9939,travel.school,premium,1040,1040,high,medium
 4f9ac319-e70f-47df-bd0b-364864052305,flight.black,available,29.99,,high,low,6,name.com,,
 e35deb93-5f2e-4b7a-912f-9bf281d2e499,flight.archi,available,24.99,,high,low,6,name.com,,
 b4dc3084-fff2-46dc-a6e4-b3c2ba8e0a2c,plane.to,resell,,,high,low,5,NAMECHEAP,12/03/2023 02:27,01/08/2026 00:00
-b9b431dd-fb56-49ef-8b9d-64680076f5dd,airplane.shop,premium,3125,,high,low,8,name.com,,
-91988ea5-6b5e-4a46-bf1d-1d5aabcb1d5b,flights.football,available,19.99,,medium,low,7,name.com,,
 624af409-eac3-4662-8e13-4adf20fff9fe,vehicle.co,resell,172500,48.99,high,low,7,"GoDaddy.com, LLC",31/08/2010 18:23,30/08/2026 23:59
 85e6a7a0-333d-42c1-89b2-cb44f9510237,terminal.airforce,available,103.99,103.99,medium,low,8,namesilo,,
 ac8796ee-9a95-4ff0-ac0c-4897ad2e046d,technology.net,resell,,,high,low,10,"NameSilo, LLC",30/07/1997 04:00,29/07/2026 04:00
@@ -998,4 +972,30 @@ ee2888fa-c953-4e5f-8c0b-f9976103ff28,vehicle.sarl,available,6.99,6.99,high,low,7
 687a7fad-11fd-4c52-afed-ac71d8a7829f,landing.viajes,available,37.99,37.99,high,low,7,namesilo,,
 4b699e43-ff8b-4f9b-a81a-5b96a523655a,military.viajes,available,37.99,37.99,high,low,8,namesilo,,
 e3b6491d-d2c1-4241-b3e4-04b737b555ff,cockpit.viajes,available,37.99,37.99,high,low,7,namesilo,,
-ee3a0ad4-66f0-4fe1-93b1-319c016742e0,flyer.voyage,available,9.99,83.99,medium,low,5,name.com,,
+a4e1aea1-2499-4218-85a8-ec4ca9c037c7,commercial.io,resell,56925,73.99,high,low,10,Dynadot Inc,02/10/2024 17:54,02/10/2026 17:54
+fff47958-74ed-41c8-804d-7fd4ad026903,safety.protection,available,1999.99,2049.99,high,low,6,namesilo,,
+2bc31578-ed97-476d-89c9-6358472a75fd,strip.express,available,16.99,50.99,high,low,5,name.com,,
+c2ac106b-b3d3-47c4-a8ee-5bb774681fd3,air.fast,premium,650,650,high,medium,3,namecheap,,
+1f3863f6-1975-45c8-bf7d-b5f1ac14c75f,strip.fast,premium,625,625,high,low,5,name.com,,
+b6491ab1-e702-4f70-b558-e64d2f5910b5,airport.tech,premium,3250,6500,medium,low,7,namecheap,,
+c7fc6f67-2bbf-4279-b5b0-2c3e543774c0,deck.limited,available,14.99,,high,low,4,name.com,,
+d49c109a-7fd0-4e1d-9fef-b464bbd98a9d,deck.enterprises,available,5.99,,high,low,4,name.com,,
+d6e43dc8-f594-4e00-b469-b56293505aa5,deck.ltd,available,9.99,,high,low,4,name.com,,
+8035c39a-6ba6-4a5f-8bf8-81e28681318c,vehicle.ltda,available,34.99,34.99,high,low,7,namesilo,,
+91197adb-9df6-44b7-8008-4653f33986cb,deck.inc,premium,2170,2800,high,low,4,namecheap,,
+27259212-a05f-4e4c-8943-20f7fbb914f7,vehicle.limited,available,14.99,,high,low,7,name.com,,
+f43a6878-6af7-4b72-a659-ede4828f40d2,vehicle.enterprises,available,5.99,,high,low,7,name.com,,
+4c49ff05-769d-4d5c-978f-9fa3dabd89d5,deck.ltda,available,46.98,,high,low,4,namecheap,,
+a918338e-a78b-481d-a301-136440cdf237,vehicle.inc,premium,2015,2600,high,low,7,namecheap,,
+e3735aad-a875-4ed7-866d-c06425a72b06,plane.london,available,31.99,31.99,high,low,5,namesilo,,
+946eaa54-c3f6-425e-949b-7ad21fe3249e,control.energy,resell,,,high,low,7,"Global Domains International, Inc. DBA DomainCostClub.com",10/09/2025 15:15,10/09/2026 15:15
+0b33f691-f3cd-44be-a169-80a1ab196193,flying.energy,available,21.99,,high,low,6,name.com,,
+92d6768d-9116-4565-bccb-40b3d05d740a,fuel.energy,resell,,,high,low,4,"NameCheap, Inc.",11/07/2021 10:02,11/07/2026 10:02
+20d6033e-847c-4494-a474-502921ebe1cd,travel.living,premium,1300,2600,high,medium,6,namecheap,,
+2d497045-4414-4f9c-9f3d-6c7626ae4eba,travel.lifestyle,premium,1300,2600,high,medium,6,namecheap,,
+2602d29e-545d-45bf-9aaa-cc7591f26321,pilot.lighting,available,14.99,,high,low,5,name.com,,
+775e2171-001e-4775-b0e2-d6e3e21aef7f,pilot.study,premium,625,,high,low,5,name.com,,
+42a5b597-bfd9-427d-aa14-c9fdd4816c40,travel.mobi,available,,,high,low,6,,,
+24a0da4b-9eb5-40db-bb5c-d9432d102e91,travel.lawyer,premium,1300,1300,high,medium,6,namecheap,,
+4864a5ad-39bc-4d55-a5f6-84f18e18f4c0,travel.esq,premium,1688.7,1688.7,high,medium,6,namecheap,,
+5b5edd42-2151-4a74-95ca-8d0c6eb56db3,travel.legal,premium,520,520,high,medium,6,namecheap,,

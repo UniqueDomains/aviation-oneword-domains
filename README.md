@@ -69,21 +69,21 @@ print(df.head())
 | air.viajes      | available | $37.99    | $37.99        | high           | medium | 3      | namesilo                        |
 | drone.voyage    | resell    | $9.99     | —             | high           | medium | 5      | Dynadot Inc                     |
 | air.airforce    | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                       |
-| jet.cars        | available | $1,999.99 | $2,199        | medium         | medium | 3      | namesilo                        |
+| sky.reise       | available | $27.89    | $97.99        | high           | medium | 3      | namesilo                        |
 | plane.la        | resell    | $2,902.02 | —             | high           | low    | 5      | VIPDomains.LA  Founders Program |
 | air.army        | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                       |
-| sky.reise       | available | $27.89    | $97.99        | high           | medium | 3      | namesilo                        |
-| vehicle.co      | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC                |
-| air.navy        | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                       |
 | sky.viajes      | available | $37.99    | $37.99        | high           | medium | 3      | namesilo                        |
+| vehicle.co      | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC                |
+| air.fast        | premium   | $650      | $650          | high           | medium | 3      | namecheap                       |
+| deck.airforce   | available | $134.98   | —             | high           | low    | 4      | namecheap                       |
+| commercial.io   | resell    | $56,925   | $73.99        | high           | low    | 10     | Dynadot Inc                     |
+| air.navy        | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                       |
+| deck.army       | available | $19.99    | —             | high           | low    | 4      | name.com                        |
 | technology.army | resell    | $48.98    | —             | high           | low    | 10     | GoDaddy.com, LLC                |
 | air.reise       | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                       |
-| deck.airforce   | available | $134.98   | —             | high           | low    | 4      | namecheap                       |
+| deck.auto       | available | $2,950    | —             | high           | low    | 4      | namecheap                       |
 | air.holiday     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                     |
 | air.reisen      | premium   | $26       | $26           | high           | medium | 3      | namecheap                       |
-| deck.army       | available | $19.99    | —             | high           | low    | 4      | name.com                        |
-| air.services    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                |
-| air.vacations   | premium   | $260      | $260          | high           | medium | 3      | namecheap                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
