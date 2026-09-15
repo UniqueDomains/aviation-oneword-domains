@@ -1,10 +1,10 @@
-# One-Word Aviation Domain Names Across 506 TLDs (156,253)
+# One-Word Aviation Domain Names Across 506 TLDs (156,268)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-156%2C253%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-156%2C268%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated list of one-word domain names built around the aviation keyword, spanning 506 different TLDs. The median asking price across this selection is about $873. Updated daily, it gives investors and founders a quick view of pricing spread and TLD coverage for aviation-related one-word domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **156,253 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **156,268 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 156,253 domains · **Median ask:** $705.08 · **High-demand under $2,500:** 277
+**Public extract:** 1,000 rows · **Live catalog:** 156,268 domains · **Median ask:** $705.09 · **High-demand under $2,500:** 277
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-15
 **Canonical page:** `https://unique.domains/domains/sector/aviation`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| jet.army          | available | $17.48    | $48.98        | medium         | medium | 3      | namecheap                                                 |
-| systems.xxx       | resell    | $154.98   | —             | low            | low    | 7      | GoDaddy.com, LLC                                          |
-| jet.baby          | premium   | $625      | $94.99        | medium         | medium | 3      | name.com                                                  |
-| jet.creditcard    | available | $9.99     | $236.99       | medium         | medium | 3      | name.com                                                  |
+| air.realty        | available | $109.99   | $299          | high           | medium | 3      | namesilo                                                  |
 | jet.airforce      | resell    | —         | —             | medium         | medium | 3      | Dynadot Inc                                               |
-| jet.bar           | premium   | $787.50   | $1,125        | medium         | medium | 3      | name.com                                                  |
-| jet.desi          | available | $19.98    | $22.98        | medium         | medium | 3      | namecheap                                                 |
+| air.airforce      | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
+| jet.army          | available | $17.48    | $48.98        | medium         | medium | 3      | namecheap                                                 |
 | jet.bot           | resell    | —         | —             | medium         | medium | 3      | Unstoppable Domains Inc.                                  |
-| jet.beauty        | premium   | $812.50   | $812.50       | medium         | medium | 3      | name.com                                                  |
-| jet.equipment     | available | $19.99    | $41.99        | medium         | medium | 3      | name.com                                                  |
-| jet.ca            | resell    | —         | —             | medium         | medium | 3      | Go Daddy Domains Canada, Inc                              |
-| jet.blog          | premium   | $3,145    | $12,500       | medium         | medium | 3      | name.com                                                  |
-| jet.florist       | available | $14.99    | $46.99        | medium         | medium | 3      | name.com                                                  |
+| jet.bar           | premium   | $787.50   | $1,125        | medium         | medium | 3      | name.com                                                  |
+| jet.car           | available | $1,999.99 | $2,199        | medium         | medium | 3      | namesilo                                                  |
 | jet.digital       | resell    | —         | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| jet.boo           | premium   | $623.75   | $623.75       | medium         | medium | 3      | name.com                                                  |
-| jet.gives         | available | $5.99     | $40.99        | medium         | medium | 3      | name.com                                                  |
+| jet.casa          | premium   | $96       | $11.80        | medium         | medium | 3      | namesilo                                                  |
+| jet.dating        | available | $12.98    | $86.98        | medium         | medium | 3      | namecheap                                                 |
+| jet.earth         | resell    | —         | —             | medium         | medium | 3      | GoDaddy.com, LLC                                          |
+| jet.cleaning      | premium   | $118.80   | $118.80       | medium         | medium | 3      | namesilo                                                  |
+| jet.diamonds      | available | $54.99    | $54.99        | medium         | medium | 3      | namesilo                                                  |
+| jet.fund          | resell    | —         | —             | medium         | medium | 3      | Spaceship, Inc.                                           |
+| jet.cv            | premium   | $2,609.75 | $87.75        | medium         | medium | 3      | namecheap                                                 |
+| jet.equipment     | available | $19.99    | $41.99        | medium         | medium | 3      | name.com                                                  |
 | jet.international | resell    | —         | —             | medium         | medium | 3      | Sav.com, LLC - 9                                          |
-| jet.cfd           | premium   | $384      | $768          | medium         | medium | 3      | namesilo                                                  |
-| jet.kim           | available | $5.98     | $32.98        | medium         | medium | 3      | namecheap                                                 |
-| jet.marketing     | resell    | —         | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| jet.dealer        | premium   | $2,015    | $2,600        | medium         | medium | 3      | namecheap                                                 |
+| jet.florist       | available | $14.99    | $46.99        | medium         | medium | 3      | name.com                                                  |
+| jet.pub           | resell    | —         | —             | medium         | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 156,253 live domains                       |
+| 1,000-row public sample | 156,268 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 277 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Aviation Domain Names Across 506 TLDs*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Aviation Domain Names Across 506 TLDs*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
