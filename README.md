@@ -1,10 +1,10 @@
-# One-Word Aviation Domain Names Across 506 TLDs (70,683)
+# One-Word Aviation Domain Names Across 506 TLDs (73,348)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-70%2C683%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-73%2C348%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This is a curated list of one-word domain names built around the aviation keyword, spanning 506 different TLDs. The median asking price across this selection is about $873. Updated daily, it gives investors and founders a quick view of pricing spread and TLD coverage for aviation-related one-word domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **70,683 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **73,348 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 70,683 domains · **Median ask:** $448.01 · **High-demand under $2,500:** 404
+**Public extract:** 1,000 rows · **Live catalog:** 73,348 domains · **Median ask:** $435.53 · **High-demand under $2,500:** 391
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/sector/aviation`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| aviation.horse | available | $32.49    | $32.49        | high           | low    | 8      | namesilo        |
-| air.archi      | available | $19.99    | $103.99       | high           | medium | 3      | namesilo        |
-| air.cruises    | resell    | $85.80    | $85.80        | high           | medium | 3      | Porkbun LLC     |
-| air.accountant | premium   | $650      | $84.50        | high           | medium | 3      | namecheap       |
-| air.diamonds   | available | $54.99    | $54.99        | high           | medium | 3      | namesilo        |
-| air.lease      | resell    | $85.80    | $85.80        | high           | medium | 3      | Sav.com, LLC    |
-| air.blog       | premium   | $3,450    | $13,800       | high           | medium | 3      | namesilo        |
-| air.hiv        | available | $195.99   | $195.99       | high           | medium | 3      | namesilo        |
-| flight.money   | resell    | $38.98    | —             | high           | low    | 6      | NameCheap, Inc. |
-| air.boo        | premium   | $648.70   | $648.70       | high           | medium | 3      | namecheap       |
-| air.hosting    | available | $309.99   | $429.99       | high           | medium | 3      | namesilo        |
-| air.camp       | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc. |
-| air.cloud      | premium   | $6,900    | $6,900        | high           | medium | 3      | namesilo        |
-| air.jewelry    | available | $67.98    | $69.98        | high           | medium | 3      | namecheap       |
-| air.cool       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
-| air.discount   | premium   | $242      | $242          | high           | medium | 3      | namesilo        |
-| air.memorial   | available | $54.98    | $64.98        | high           | medium | 3      | namecheap       |
-| air.live       | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc. |
-| air.esq        | premium   | $843.70   | $843.70       | high           | medium | 3      | namecheap       |
-| air.organic    | available | $17.99    | $85.99        | high           | medium | 3      | namesilo        |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| aviation.horse    | available | $32.49    | $32.49        | high           | low    | 8      | namesilo                                     |
+| air.hamburg       | available | $69.98    | $73.98        | high           | medium | 3      | namecheap                                    |
+| air.theater       | resell    | $19.99    | —             | high           | medium | 3      | Sav.com, LLC                                 |
+| air.cooking       | premium   | $96       | $29.50        | high           | medium | 3      | namesilo                                     |
+| air.hospital      | available | $55.98    | $71.98        | high           | medium | 3      | namecheap                                    |
+| air.vin           | resell    | $11.99    | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| air.courses       | premium   | $640      | $640          | high           | medium | 3      | namesilo                                     |
+| air.sydney        | available | $58       | $58           | high           | medium | 3      | namesilo                                     |
+| flight.xxx        | resell    | $154.98   | —             | high           | low    | 6      | GoDaddy.com, LLC                             |
+| air.fishing       | premium   | $52       | $32.50        | high           | medium | 3      | namecheap                                    |
+| flight.ac         | available | $34.99    | $47.99        | high           | low    | 6      | namesilo                                     |
+| airplane.host     | resell    | $4.99     | $109.99       | high           | low    | 8      | namesilo                                     |
+| air.forum         | premium   | $116      | $116          | high           | medium | 3      | namesilo                                     |
+| flight.adult      | available | $179.99   | $179.99       | high           | low    | 6      | name.com                                     |
+| air.click         | resell    | —         | —             | high           | medium | 3      | Dynadot, LLC                                 |
+| air.games         | premium   | $512      | $512          | high           | medium | 3      | namesilo                                     |
+| flight.apartments | available | $57.99    | $57.99        | high           | low    | 6      | namesilo                                     |
+| air.delivery      | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                 |
+| air.host          | premium   | $6,900    | $6,900        | high           | medium | 3      | namesilo                                     |
+| flight.army       | available | $17.48    | $48.98        | high           | low    | 6      | namecheap                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 70,683 live domains                        |
+| 1,000-row public sample | 73,348 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 404 high-demand names under $2,500         |
+| Basic exported fields   | 391 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
