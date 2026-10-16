@@ -1,10 +1,10 @@
-# One-Word Aviation Domain Names Across 506 TLDs (104,202)
+# One-Word Aviation Domain Names Across 506 TLDs (104,689)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-104%2C202%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-104%2C689%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated list of one-word domain names built around the aviation keyword, spanning 506 different TLDs. The median asking price across this selection is about $873. Updated daily, it gives investors and founders a quick view of pricing spread and TLD coverage for aviation-related one-word domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **104,202 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **104,689 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 104,202 domains · **Median ask:** $311.95 · **High-demand under $2,500:** 425
+**Public extract:** 1,000 rows · **Live catalog:** 104,689 domains · **Median ask:** $311.01 · **High-demand under $2,500:** 430
 
-**Last updated:** 2026-10-14
+**Last updated:** 2026-10-16
 **Canonical page:** `https://unique.domains/domains/sector/aviation`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| air.cars           | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo                                                  |
-| flight.contact     | resell    | $14.99    | $14.99        | high           | low    | 6      | Dynadot Inc                                               |
-| air.charity        | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap                                                 |
-| air.condos         | available | $58.99    | $58.99        | high           | medium | 3      | namesilo                                                  |
-| flight.money       | resell    | $38.98    | —             | high           | low    | 6      | NameCheap, Inc.                                           |
-| air.cleaning       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
-| air.kaufen         | available | $5.99     | $26.99        | high           | medium | 3      | namesilo                                                  |
-| air.ceo            | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
-| air.cloud          | premium   | $6,900    | $6,900        | high           | medium | 3      | namesilo                                                  |
-| air.salon          | available | $55.98    | $69.98        | high           | medium | 3      | namecheap                                                 |
-| air.consulting     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
-| air.construction   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
-| air.villas         | available | $59.99    | $59.99        | high           | medium | 3      | namesilo                                                  |
-| air.family         | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| air.creditcard     | premium   | $242      | $242          | high           | medium | 3      | namesilo                                                  |
-| jet.viajes         | available | $99.99    | $99.99        | high           | medium | 3      | namesilo                                                  |
-| air.glass          | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.                                           |
-| air.cricket        | premium   | $640      | $77.35        | high           | medium | 3      | namesilo                                                  |
-| flight.accountants | available | $122.98   | $145.98       | high           | low    | 6      | namecheap                                                 |
-| air.ink            | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                              |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| air.hospital   | available | $55.98    | $71.98        | high           | medium | 3      | namecheap                                                 |
+| air.theater    | resell    | $19.99    | —             | high           | medium | 3      | Sav.com, LLC                                              |
+| air.band       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
+| air.insure     | available | $76.98    | $91.98        | high           | medium | 3      | namecheap                                                 |
+| airplane.host  | resell    | $4.99     | $109.99       | high           | low    | 8      | namesilo                                                  |
+| air.cooking    | premium   | $96       | $29.50        | high           | medium | 3      | namesilo                                                  |
+| air.protection | available | $1,999.99 | $2,049.99     | high           | medium | 3      | namesilo                                                  |
+| air.beauty     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
+| air.design     | premium   | $832      | $832          | high           | medium | 3      | namesilo                                                  |
+| air.storage    | available | $509.99   | $529.99       | high           | medium | 3      | namesilo                                                  |
+| air.blue       | resell    | —         | —             | high           | medium | 3      | Edomains LLC                                              |
+| air.diy        | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                                                  |
+| flight.ac      | available | $34.99    | $47.99        | high           | low    | 6      | namesilo                                                  |
+| air.click      | resell    | —         | —             | high           | medium | 3      | Dynadot, LLC                                              |
+| air.fishing    | premium   | $52       | $32.50        | high           | medium | 3      | namecheap                                                 |
+| flight.adult   | available | $179.99   | $179.99       | high           | low    | 6      | name.com                                                  |
+| air.delivery   | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                              |
+| air.football   | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo                                                  |
+| flight.army    | available | $17.48    | $48.98        | high           | low    | 6      | namecheap                                                 |
+| air.dog        | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 104,202 live domains                                 |
+| 1,000-row public sample | 104,689 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 425 high-demand names under $2,500                   |
+| Basic exported fields   | 430 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Aviation Domain Names Across 506 TLDs*. Version 2026-10-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Aviation Domain Names Across 506 TLDs*. Version 2026-10-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
