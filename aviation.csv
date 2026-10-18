@@ -1,20 +1,10 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-8680fa82-e259-4905-879a-818c0cf81791,aviation.airforce,available,103.99,103.99,high,low,8,namesilo,,,17/09/2026 22:43
+8680fa82-e259-4905-879a-818c0cf81791,aviation.airforce,available,83,83,high,low,8,spaceship,,,18/10/2026 02:16
 222d0606-5c89-4682-9f3b-0903c7b1037e,aviation.fm,available,69.98,118.98,high,low,8,namecheap,,,17/09/2026 22:43
-24b28c9c-739f-4fbb-b303-b82fb8b78eed,aviation.engineer,premium,78,78,high,low,8,namecheap,,,17/09/2026 22:43
 1b09c3b8-1636-40eb-bfbe-90ffbacaa718,aviation.ski,available,27.99,64.99,high,low,8,namesilo,,,17/09/2026 22:43
-75c805cf-dc2b-4112-85bc-456b7e2886ce,aviation.builders,available,35.99,35.99,high,low,8,namesilo,,,17/09/2026 22:43
 b26c954a-0cc1-4f86-9b4c-dc54546dedf6,aviation.shoes,available,64.99,64.99,high,low,8,namesilo,,,17/09/2026 22:43
-7279f53c-ed20-432b-86ce-ed0c9224e905,aviation.tickets,available,359.99,488.88,high,low,8,namesilo,,,17/09/2026 22:43
-88cbae63-c652-4088-9292-6be7507f8ed4,aviation.pet,available,14.49,27.59,high,low,8,namesilo,,,17/09/2026 22:43
 57b16d0e-3994-4d5b-96c8-4ef31c940aea,aviation.cyou,premium,68.43,147.2,high,low,8,namesilo,,,17/09/2026 22:43
-4241b2a3-5586-479d-8ed7-1ef8df35a652,aviation.juegos,available,368.98,478.98,high,low,8,namecheap,,,17/09/2026 22:43
 fb9ee28b-a639-4ab5-93a7-8a1ed11e1b9f,aviation.me,premium,4477.59,20.89,high,low,8,namecheap,,,17/09/2026 22:43
-77009c38-aa45-4159-b6b2-0f38d9881177,aviation.mom,available,1.99,27.99,high,low,8,namesilo,,,17/09/2026 22:43
-a792fd06-33fa-4d79-a0ba-fb9978653e63,aviation.promo,available,14.49,24.99,high,low,8,namesilo,,,17/09/2026 22:43
-9e52a1a0-1c6e-443f-a7e4-0b1880aa289d,aviation.cash,available,12.99,38.99,high,low,8,namesilo,,,17/09/2026 22:43
-345a8afa-f545-4630-bd72-59ce6e413efd,aviation.diet,available,104.99,114.99,high,low,8,namesilo,,,17/09/2026 22:43
-17a60ec0-a4a8-4f9c-be98-607a50a6a533,aviation.family,premium,242,242,high,low,8,namesilo,,,17/09/2026 22:43
 b859cece-1056-436e-b4d3-bde7d1c309a6,aviation.icu,premium,68.43,147.2,high,low,8,namesilo,,,17/09/2026 22:43
 5432b1a4-38af-437c-94a7-8cc510679b85,aviation.healthcare,available,93.98,111.98,high,low,8,namecheap,,,17/09/2026 22:43
 544103a1-2ce3-4066-a8bc-b4db5ee2bcb7,aviation.cards,available,38.99,38.99,high,low,8,namesilo,,,17/09/2026 22:43
@@ -109,7 +99,6 @@ a5f35c58-e217-4f77-95c2-9590e979fb80,aviation.melbourne,available,58,58,high,low
 28269abc-4bf2-4914-8ec0-10bdb356eaf8,aviation.fast,premium,53.92,53.92,high,low,8,namesilo,,,17/09/2026 22:43
 976dda2b-9711-40a3-b7b2-da265a88c741,aviation.ing,premium,455,455,high,low,8,namecheap,,,17/09/2026 22:43
 63d66e52-a019-42e6-bfc4-7c641197e14c,aviation.free,premium,116,116,high,low,8,namesilo,,,17/09/2026 22:43
-e7d64901-8783-480b-a3bf-fb8be510cb56,aircraft.fast,premium,53.92,53.92,high,low,8,namesilo,,,17/09/2026 23:03
 6e1d2480-117d-438e-9661-2015d140996c,aviation.fail,available,38.99,38.99,high,low,8,namesilo,,,17/09/2026 22:43
 ac959359-758c-4615-9e5f-74fcee6acfb7,aviation.memorial,available,52.99,52.99,high,low,8,namesilo,,,17/09/2026 22:43
 20eae908-f471-4ddd-b99a-a1c4bdaf6542,aviation.pizza,available,17.99,64.99,high,low,8,namesilo,,,17/09/2026 22:43
@@ -126,37 +115,28 @@ f6adc40d-47f4-4615-8fed-19d35b9abfd8,aviation.osaka,available,32.98,41.98,high,l
 e51ff740-cdc5-4a98-b18d-637a124b741b,aviation.engineering,premium,118.8,118.8,high,low,8,namesilo,,,17/09/2026 22:43
 a3392b8a-5033-4482-b72b-bf4089bd1856,aviation.forsale,premium,118.8,118.8,high,low,8,namesilo,,,17/09/2026 22:43
 42aaa23b-a8b1-448e-92f8-c2ffc5ffd386,aircraft.limo,available,19.99,71.99,high,low,8,name.com,,,17/09/2026 23:03
-29af3c2d-bc49-4d62-9649-794d76e53731,aircraft.holdings,available,64.99,64.99,high,low,8,namesilo,,,17/09/2026 23:03
 2614505f-2fb0-4d31-a9cd-9b800080d0b6,aircraft.gg,available,68.98,82.98,high,low,8,namecheap,,,17/09/2026 23:03
 568ce2e6-18ec-44af-9e42-eda9584da45c,aviation.reise,available,27.89,97.99,high,low,8,namesilo,,,17/09/2026 22:43
 9c54d58e-782f-4c59-80c7-d75f40dbbd40,aviation.food,available,5.49,39.99,high,low,8,namesilo,,,17/09/2026 22:43
 8e53d685-daed-4f05-95f0-2acad4c5ecee,aviation.immo,available,34.99,34.99,high,low,8,namesilo,,,17/09/2026 22:43
 886caa37-edcc-4296-a575-0953b376a27b,aviation.coupons,available,5.99,54.99,high,low,8,namesilo,,,17/09/2026 22:43
 37e181f0-d05b-4a50-a099-cc41d62197a5,aviation.tienda,available,59.99,59.99,high,low,8,namesilo,,,17/09/2026 22:43
-eab24861-3b27-44b9-a515-5c97607e194a,aircraft.promo,available,14.49,24.99,high,low,8,namesilo,,,17/09/2026 23:03
 5e3c6369-123c-4823-b855-d34c5546f74a,aviation.dental,available,78.99,78.99,high,low,8,namesilo,,,17/09/2026 22:43
 c9e22d27-1bd8-4be4-8e2e-340957a30d16,aviation.doctor,available,14.49,116.99,high,low,8,namesilo,,,17/09/2026 22:43
 0b19cb93-e667-4c16-a885-ff19d9098ba0,aviation.holiday,available,64.99,64.99,high,low,8,namesilo,,,17/09/2026 22:43
 4fd598a4-e5c7-491b-a72c-6e28c692efc7,aircraft.land,available,15.99,41.99,high,low,8,namesilo,,,17/09/2026 23:03
 49a36b2b-4666-4725-a3a5-cc6677523a8b,aviation.estate,available,15.99,38.99,high,low,8,namesilo,,,17/09/2026 22:43
-5ef31392-c347-46ea-a124-feca73fc0819,aircraft.party,premium,448,53.92,high,low,8,namesilo,,,17/09/2026 23:03
-60315d1a-b0e2-473f-aeff-be456a88920a,aircraft.paris,available,66.98,66.98,high,low,8,namecheap,,,17/09/2026 23:03
 92396543-bd43-4455-8e2e-f783f558e1e0,aircraft.place,available,22.49,22.49,high,low,8,namesilo,,,17/09/2026 23:03
-108b6ebe-0556-47ef-a9e0-e1968751caec,aircraft.college,available,17.99,59.99,high,low,8,namesilo,,,17/09/2026 23:03
 fb4279fa-4e37-4c27-bf74-d484e29fedc7,aviation.blog,premium,640,2660,high,low,8,namesilo,,,17/09/2026 22:43
-2446b765-5024-454e-9dfb-5ede6771e2c8,aircraft.name,available,8.98,9.98,high,low,8,namecheap,,,17/09/2026 23:03
 05be06e1-8b77-47b5-9bf5-f0b35ed58c73,aviation.site,premium,1107,1107,high,low,8,namesilo,,,17/09/2026 22:43
-5062adde-782b-4cdb-893f-300a816efb53,aircraft.cam,resell,,,high,low,8,"Spaceship, Inc.",13/10/2025 00:42,13/10/2027 23:59,14/10/2026 05:23
 4b87fb4c-b353-4374-ae0f-a43b438f98c3,aviation.archi,available,19.99,103.99,high,low,8,namesilo,,,17/09/2026 22:43
 99359021-e9d7-4042-9b41-ef2ad4b155c2,aviation.yachts,available,1.8,21.98,high,low,8,namecheap,,,17/09/2026 22:43
 2fd53eb2-39ea-4385-b6fa-19b09a3a997a,aviation.limo,available,54.99,54.99,high,low,8,namesilo,,,17/09/2026 22:43
-3c25c088-6883-4bd6-aae7-3287f303bc85,aircraft.actor,available,16.99,44.49,high,low,8,namesilo,,,17/09/2026 23:03
 5d7d2478-27e1-4ff4-b2d9-1cf060cc7839,aircraft.baby,available,17.99,54.99,high,low,8,namesilo,,,17/09/2026 23:03
 1fa412bf-27fa-47af-a041-4e9e546dfc45,aircraft.photography,available,9.99,46.99,high,low,8,name.com,,,17/09/2026 23:03
 f9f6a6c4-289f-4b1e-a8ad-c1d743e8eac3,aviation.maison,available,60.98,69.98,high,low,8,namecheap,,,17/09/2026 22:43
 82f453ce-4bcb-451c-a921-73b3546de9be,aviation.new,available,488.98,601.98,high,low,8,namecheap,,,17/09/2026 22:43
 1f77bb71-6647-4450-8cdc-3058d33c4935,aircraft.mobile,premium,750,750,high,low,8,name.com,,,17/09/2026 23:03
-2b30d40f-9629-4f58-8e6c-81a7a2ece6fc,aircraft.bot,available,64.99,64.99,high,low,8,namesilo,,,17/09/2026 23:03
 f61be931-1ea8-44e3-94c6-a083ed9f2982,aircraft.foo,premium,161.25,161.25,high,low,8,name.com,,,17/09/2026 23:03
 8ca6e139-21d8-47cd-8c80-c7627ccbd9e6,aircraft.pet,available,6.98,35.98,high,low,8,namecheap,,,17/09/2026 23:03
 7088979f-d2cf-4d24-9ede-d9eb8516ea61,aircraft.pink,available,14.49,25.99,high,low,8,namesilo,,,17/09/2026 23:03
@@ -226,7 +206,6 @@ afced7a6-b79b-4959-98e3-44a22e8f3b2d,aviation.ngo,available,18.98,24.98,high,low
 07487b68-13c1-4d36-9f9d-6c64c021ff76,aircraft.auto,available,1999.99,2199,high,low,8,namesilo,,,17/09/2026 23:03
 7425135a-ddde-45e4-a926-9c9fe9ee4974,aviation.credit,available,9.48,131.98,high,low,8,namecheap,,,17/09/2026 22:43
 5d39ba5b-5481-4834-bf54-62fe73ddaee8,aviation.onl,premium,53.92,116,high,low,8,namesilo,,,17/09/2026 22:43
-2ec85dde-c81c-47c3-99dd-5098e190e594,flight.living,premium,455,650,high,low,6,namecheap,,,24/09/2026 20:44
 244d48c1-97a3-44e8-8629-13e713cd65f3,aircraft.bio,available,9.99,69.99,high,low,8,namesilo,,,17/09/2026 23:03
 e45bed33-c842-4a89-bf41-38d518e52507,aircraft.flowers,available,64.99,114.99,high,low,8,namesilo,,,17/09/2026 23:03
 591316e7-74ae-4cd6-ac96-0ad59b535246,aircraft.vision,available,45.99,45.99,high,low,8,namesilo,,,17/09/2026 23:03
@@ -255,7 +234,6 @@ c32173da-4137-481f-a775-a7a0430a9c3d,aircraft.luxury,available,49.99,49.99,high,
 792a432e-d11a-4f33-a11e-fb07e6ceb454,aircraft.salon,available,57.99,57.99,high,low,8,namesilo,,,17/09/2026 23:03
 39eb0fe4-af7e-4ad3-a92c-d701160b74df,aircraft.gives,available,14.99,23.99,high,low,8,namesilo,,,17/09/2026 23:03
 e03399ee-d148-47f5-b20a-0822c16653a9,flight.online,premium,34500,34500,high,low,6,namesilo,,,24/09/2026 20:44
-43cd257a-d1d7-4839-8b4d-9cb4e2360c87,flight.fashion,available,32.49,32.49,high,low,6,namesilo,,,24/09/2026 20:44
 fd546959-fde1-4241-aa14-aca5619c7fda,aviation.studio,resell,,,high,low,8,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),28/05/2017 16:33,28/05/2027 16:33,26/09/2026 04:10
 01d3288f-d884-4c2a-a239-faf3b02de737,aircraft.to,resell,,,high,low,8,Tonic,11/12/2019 02:27,01/08/2027 00:00,26/09/2026 01:27
 874261c5-a9f8-46e5-840e-4216e51554c4,aircraft.storage,available,799,949.99,high,low,8,name.com,,,17/09/2026 23:03
@@ -297,14 +275,11 @@ e17fc325-7bf8-4538-8284-98af4bafa39e,aircraft.international,available,12.99,31.4
 a4066813-522e-4025-8d2d-eadf2e7148ea,aviation.money,available,11.98,38.98,high,low,8,namecheap,,,17/09/2026 22:43
 15356b94-fbf3-443d-8403-23ed129a9770,aviation.skin,available,1.99,17.29,high,low,8,namesilo,,,17/09/2026 22:43
 5bf02a83-1427-44d1-bd75-f267b9750df0,aircraft.kids,premium,62.5,22.5,high,low,8,name.com,,,17/09/2026 23:03
-a0db493e-c773-4a71-982f-342f97e5e4a3,flight.properties,available,18.99,39.99,high,low,6,namesilo,,,24/09/2026 20:44
-02221f3f-349a-439d-9136-105726321f31,flight.adult,available,179.99,179.99,high,low,6,name.com,,,24/09/2026 20:44
 c47c9bb2-e001-459f-8ec6-3abe548492bb,aviation.spot,premium,116,116,high,low,8,namesilo,,,17/09/2026 22:43
 5522a95f-af80-4f78-83ba-dd4a81af137c,aircraft.esq,premium,115.7,115.7,high,low,8,namecheap,,,17/09/2026 23:03
 b8408e48-742f-41f5-8ced-c9c3e7448129,aircraft.dog,available,7.49,64.99,high,low,8,namesilo,,,17/09/2026 23:03
 149ac2c5-235e-4ade-bbbf-462239f192e7,aviation.movie,available,47.99,349.99,high,low,8,namesilo,,,17/09/2026 22:43
 40a6e050-d491-44ab-9c40-e61d51287b46,aviation.wine,available,9.99,59.99,high,low,8,namesilo,,,17/09/2026 22:43
-50ed6517-ae72-4b6d-aa46-5d8753010bee,flight.loan,premium,625,81.25,high,low,6,name.com,,,24/09/2026 20:44
 b871775e-4801-442d-a516-646b5e7f7b3d,airplane.cars,available,1999.99,2199,high,low,8,namesilo,,,27/09/2026 04:01
 24a80cbd-0a90-45c7-b1ab-f77ca4d3c4ac,aviation.talk,premium,78,78,high,low,8,namecheap,,,17/09/2026 22:43
 f081a433-7c7e-46aa-b1d2-072fc57c1a29,aircraft.llc,available,14.99,42.99,high,low,8,namesilo,,,17/09/2026 23:03
@@ -318,11 +293,8 @@ cdc4b4ec-a1d9-45f1-bc9f-d744e86e5f63,aircraft.spot,premium,116,116,high,low,8,na
 756f9dc2-156c-4ab8-8d6e-1aaea71e40a6,flight.mba,available,17.99,39.99,high,low,6,namesilo,,,24/09/2026 20:44
 23260f5d-f358-4a40-a4da-77f9332b86dc,aircraft.ltda,available,34.99,34.99,high,low,8,namesilo,,,17/09/2026 23:03
 5e4d60a5-5d42-4519-85f8-2aa1506a1fcb,aviation.menu,available,27.99,27.99,high,low,8,namesilo,,,17/09/2026 22:43
-b7eb55e2-4bfd-43e5-974a-389a3d4ba660,flight.press,premium,162.5,325,high,low,6,namecheap,,,24/09/2026 20:44
 07e43995-748d-463c-af91-bd0b63b544fd,aviation.glass,available,72.99,72.99,high,low,8,namesilo,,,17/09/2026 22:43
-9f88194b-59e2-409c-8a82-f6acd677d75c,flight.sale,premium,1995,1995,high,low,6,namesilo,,,24/09/2026 20:44
 a20af8e8-0f93-4186-a584-643abca52295,flight.engineer,premium,71.4,71.4,high,low,6,namesilo,,,24/09/2026 20:44
-851dbfae-928b-4dfd-93ea-5f5dd115af7f,flight.gratis,available,23.99,23.99,high,low,6,namesilo,,,24/09/2026 20:44
 f8375de8-aef3-43d6-aa8d-cf0d91bb7027,aviation.game,available,309.99,429.99,high,low,8,namesilo,,,17/09/2026 22:43
 4f693c29-8317-45dd-9451-f5c4b537ea81,aircraft.pub,available,39.99,39.99,high,low,8,namesilo,,,17/09/2026 23:03
 6bb30be9-8226-4330-b887-a9bf05799c30,aircraft.bz,available,21.98,26.98,high,low,8,namecheap,,,17/09/2026 23:03
@@ -331,7 +303,6 @@ b7f1ca4e-559e-4da4-9cbc-c317d2dffd1f,airplane.vacations,available,38.99,38.99,hi
 9d8b5c7f-1a69-402a-9b3e-cb71e7261d19,aircraft.supplies,available,25.48,32.48,high,low,8,namecheap,,,17/09/2026 23:03
 2d9ba1ff-b2b6-4c31-86a4-e47be0640e95,aviation.now,resell,,,high,low,8,"Spaceship, Inc.",17/07/2025 22:09,17/07/2027 22:09,26/09/2026 04:10
 24040eeb-088d-4c0e-9862-c9eea7a9df76,aviation.cat,available,26.98,38.98,high,low,8,namecheap,,,17/09/2026 22:43
-55ac0050-4876-4835-bc4a-d72df521c9b1,flight.coupons,premium,854,854,high,low,6,namesilo,,,24/09/2026 20:44
 8f955c5f-05cb-434f-8a9d-b04dffbe41e0,flight.cleaning,available,75.49,75.49,high,low,6,namesilo,,,24/09/2026 20:44
 082f31b5-c5f0-4277-89bd-23a77d14df94,aviation.exposed,available,22.49,22.49,high,low,8,namesilo,,,17/09/2026 22:43
 d3d25ab0-d068-4aa0-879c-6aa267d91ff5,flight.audio,available,104.99,114.99,high,low,6,namesilo,,,24/09/2026 20:44
@@ -350,7 +321,6 @@ af18c850-492b-4e5f-a8af-38b49cc801f7,aviation.blackfriday,available,114.99,114.9
 1c9b7094-c54c-49bd-b68e-ff272bda60ef,aviation.xyz,resell,,,high,low,8,"GoDaddy.com, LLC",02/06/2014 16:47,02/06/2027 23:59,26/09/2026 04:10
 72c88c3e-92c6-4a61-b0d1-dd30b7931428,aviation.ooo,premium,83.29,23.59,high,low,8,namesilo,,,17/09/2026 22:43
 ca538373-63c6-4d06-b3c2-d8d81f1e8432,airplane.business,available,19.49,19.49,high,low,8,namesilo,,,27/09/2026 04:01
-fb32e87b-5432-42a3-bf4e-36c019930810,airplane.hot,premium,116,116,high,low,8,namesilo,,,27/09/2026 04:01
 f0eeaebe-9f8f-4cb9-bb80-793d3c879ab2,aviation.ceo,premium,510.98,510.98,high,low,8,namesilo,,,17/09/2026 22:43
 45828369-289b-4014-85fb-f9b566b8ba71,airplane.onl,available,3.48,28.98,high,low,8,namecheap,,,27/09/2026 04:01
 d0c26cc0-e060-4889-84a0-ef17609e0bfe,aircraft.condos,available,58.99,58.99,high,low,8,namesilo,,,17/09/2026 23:03
@@ -364,12 +334,10 @@ c8effb75-7107-48e8-9c88-39af4d8625f4,aircraft.garden,available,2.19,32.49,high,l
 f5ce46c6-a0ee-4645-bad2-38fbf3d9d3b6,airplane.reisen,available,3.99,20.99,high,low,8,namesilo,,,27/09/2026 04:01
 49a9e139-dbd5-4593-b80e-274baaaf52ab,flight.immo,available,34.99,34.99,high,low,6,namesilo,,,24/09/2026 20:44
 c63d32f3-0944-4451-a7cf-eb3a6d8798ed,airplane.hockey,available,59.99,59.99,high,low,8,namesilo,,,27/09/2026 04:01
-aa026761-8c24-4e16-86b9-b5d3a7b0bd6e,airplane.degree,available,52.99,52.99,high,low,8,namesilo,,,27/09/2026 04:01
 9c3ed732-100d-4547-b9bf-c6dc577c45f2,flight.productions,available,14.99,52.99,high,low,6,name.com,,,24/09/2026 20:44
 6d031118-25de-4a5b-8c60-b6292e15208b,flight.garden,available,1.98,43.98,high,low,6,namecheap,,,24/09/2026 20:44
 01690837-233b-4581-b7e4-6ad35976ec33,aviation.ltda,premium,56.64,33.04,high,low,8,namesilo,,,17/09/2026 22:43
 ba30539a-e5ce-4ba2-8ae3-41809f27c3ab,flight.jetzt,available,23.99,23.99,high,low,6,namesilo,,,24/09/2026 20:44
-cf921066-67f5-4b2b-b96e-7a1beb2de729,airplane.network,available,7.99,34.99,high,low,8,namesilo,,,27/09/2026 04:01
 670cd856-dd8c-4684-b022-0b2c4722560a,flight.vet,available,41.99,41.99,high,low,6,namesilo,,,24/09/2026 20:44
 e8dfe5fc-a822-4ecb-9e4d-f35d7409915d,aviation.prof,premium,115.7,115.7,high,low,8,namecheap,,,17/09/2026 22:43
 48ec3325-0d03-4e03-83ac-9d49e0ada4eb,aviation.science,premium,640,77.35,high,low,8,namesilo,,,17/09/2026 22:43
@@ -382,7 +350,6 @@ e6ec2e71-0d44-4f06-a1ce-79c49adfc63f,flight.expert,premium,512,512,high,low,6,na
 9e0d47c8-1c94-4245-8bcd-abc190cee7be,flight.spot,premium,116,116,high,low,6,namesilo,,,24/09/2026 20:44
 a0a910a4-fc60-443e-9356-89cbe6fe588a,airplane.porn,available,69.98,154.98,high,low,8,namecheap,,,27/09/2026 04:01
 4a7b87b5-1f32-49e0-92fe-b0b3eae37122,flight.florist,available,32.99,32.99,high,low,6,namesilo,,,24/09/2026 20:44
-33c4295d-09fa-40fc-b59e-ec4837bf7d6f,airplane.cool,available,9.49,44.99,high,low,8,namesilo,,,27/09/2026 04:01
 289f1a5c-db2f-4baf-b1d3-b2e253c7b993,aircraft.soccer,available,25.99,25.99,high,low,8,namesilo,,,17/09/2026 23:03
 aa79242f-3c22-46dd-a7dd-72f98996a004,flight.realty,available,109.99,299,high,low,6,namesilo,,,24/09/2026 20:44
 dc78da5b-27ac-4597-a461-059f55502d79,airplane.cleaning,available,79.98,94.98,high,low,8,namecheap,,,27/09/2026 04:01
@@ -392,7 +359,6 @@ a6bbd925-87bc-47fd-9720-b94f5e02c7e7,aviation.esq,resell,,,high,low,8,Squarespac
 b1f1c124-11e0-41ce-be7e-7b9e6eebb449,aviation.house,available,19.99,44.49,high,low,8,namesilo,,,17/09/2026 22:43
 ea292d9f-4da3-4d04-96ae-024565517b26,aircraft.reviews,premium,118.8,118.8,high,low,8,namesilo,,,17/09/2026 23:03
 71ff8f1c-eea0-4cdc-a363-e0ea8ec00361,flight.navy,available,41.99,41.99,high,low,6,namesilo,,,24/09/2026 20:44
-7bfa3a1d-ddd4-464e-bc92-a1d8034ec475,airplane.community,available,45.99,45.99,high,low,8,namesilo,,,27/09/2026 04:01
 1a0d18db-8963-4431-96b7-a5c53dfd4ac4,airplane.surf,available,1.98,43.98,high,low,8,namecheap,,,27/09/2026 04:01
 651a34f9-d30d-49b6-8f38-607de5487d6f,aviation.codes,available,3.98,92.98,high,low,8,namecheap,,,17/09/2026 22:43
 37f737f1-f78e-4cc3-9ec9-f9e687ba18f1,flight.eu,resell,,,high,low,6,"Name: NameSilo, LLC Website: https://www.namesilo.com",,,26/09/2026 06:08
@@ -816,6 +782,7 @@ b8a0ad60-74fa-4934-abfa-87c55d0195c4,aviation.vana,available,2298,2498,high,low,
 90320454-008b-4307-a1dd-23680a9cec63,airplane.bot,available,64.99,64.99,high,low,8,namesilo,,,27/09/2026 04:01
 114014b0-ce40-4102-a397-40c50a115c1e,aviation.cooking,available,33.98,43.98,high,low,8,namecheap,,,17/09/2026 22:43
 406149b4-1c04-48db-82d7-64d4900a1f02,airplane.show,available,18.99,44.49,high,low,8,namesilo,,,27/09/2026 04:01
+24b28c9c-739f-4fbb-b303-b82fb8b78eed,aviation.engineer,premium,78,78,high,low,8,namecheap,,,17/09/2026 22:43
 ed98b005-8f47-4bfd-9c22-68ba88364a9e,flight.flowers,available,64.99,114.99,high,low,6,namesilo,,,24/09/2026 20:44
 972af406-1dad-4c85-a271-520e70424665,air.attorney,premium,118.8,118.8,high,medium,3,namesilo,,,19/09/2026 13:23
 c15f7057-4308-4231-884e-7f155825a780,flight.cyou,premium,390,780,high,low,6,namecheap,,,24/09/2026 20:44
@@ -852,15 +819,14 @@ d85a63aa-d4ad-475e-be57-ebc89581bf43,aircraft.moda,available,41.99,41.99,high,lo
 f7b7e98f-f413-44db-96fa-cf87cf2fdd95,airplane.studio,available,17.99,40.99,high,low,8,namesilo,,,27/09/2026 04:01
 63f5e305-3fa1-4ef0-847f-816421d78eb2,air.tickets,premium,13248,13248,high,medium,3,namesilo,,,19/09/2026 13:23
 34e9cdf2-10bc-41ea-8565-02cb9ca61d09,flight.watch,resell,,,high,low,6,Dynadot Inc,23/07/2019 09:24,23/07/2027 09:24,26/09/2026 06:08
-08635afd-76dd-4b53-8065-88c472282db1,air.game,available,309.99,429.99,high,medium,3,namesilo,,,19/09/2026 13:23
 c2437021-0556-429b-999c-42a8222234b3,aircraft.casino,available,6.98,191.98,high,low,8,namecheap,,,17/09/2026 23:03
-2c98abe9-0b7d-4cc8-ae44-7f51f0a9cd93,air.run,resell,,,high,medium,3,"Spaceship, Inc.",01/02/2021 16:02,01/02/2027 16:02,26/09/2026 01:28
 f1affe37-2bd1-45d5-883f-bfb212fb9e0f,flight.movie,available,47.99,349.99,high,low,6,namesilo,,,24/09/2026 20:44
 966243e2-fd7a-48bc-93d6-0fd201d46bc2,air.ooo,premium,6969,119.99,high,medium,3,namesilo,,,19/09/2026 13:23
 3fa07744-4dc0-4675-a4c6-af2246da8288,airplane.exposed,available,22.49,22.49,high,low,8,namesilo,,,27/09/2026 04:01
 40d76c87-1087-46f2-a65d-a8dba66806dd,airplane.apartments,available,57.99,57.99,high,low,8,namesilo,,,27/09/2026 04:01
 8f607814-edfe-4b16-834e-592f28a430cc,flight.hamburg,available,69.98,73.98,high,low,6,namecheap,,,24/09/2026 20:44
 03113301-5a92-4b20-85cf-4be8e29cf288,aircraft.earth,available,18.99,18.99,high,low,8,namesilo,,,17/09/2026 23:03
+75c805cf-dc2b-4112-85bc-456b7e2886ce,aviation.builders,available,35.99,35.99,high,low,8,namesilo,,,17/09/2026 22:43
 140968b3-32f8-400d-b491-ba27808cbc3a,aircraft.my,premium,65.76,93.94,high,low,8,name.com,,,17/09/2026 23:03
 c1f34526-a96a-4cf1-b7da-3ad7921cbc50,aviation.democrat,available,7.25,32.99,high,low,8,namesilo,,,17/09/2026 22:43
 9fe7d4b5-c115-4495-a9be-ff66ca5d4769,aircraft.bond,premium,68.43,147.2,high,low,8,namesilo,,,17/09/2026 23:03
@@ -871,6 +837,7 @@ b1b8bee2-6f0f-4c1a-b846-4b5676f4f37c,flight.ltda,premium,56.64,33.04,high,low,6,
 c82523eb-580d-4439-a2fd-a556b1cf495d,airplane.bingo,available,53.99,53.99,high,low,8,namesilo,,,27/09/2026 04:01
 ecb1b8b5-58ed-46ed-9d05-dfecce49e99e,airplane.movie,available,47.99,349.99,high,low,8,namesilo,,,27/09/2026 04:01
 d284ab80-efd0-457c-a0e3-3bde2ed54935,airplane.golf,available,7.49,64.99,high,low,8,namesilo,,,27/09/2026 04:01
+7279f53c-ed20-432b-86ce-ed0c9224e905,aviation.tickets,available,359.99,488.88,high,low,8,namesilo,,,17/09/2026 22:43
 d6b75682-d873-4147-b46c-aa83088f547e,aircraft.theater,available,65.99,65.99,high,low,8,namesilo,,,17/09/2026 23:03
 3e647b7e-ec5b-42d1-afb5-4a97f2820b7d,air.navy,premium,118.8,118.8,high,medium,3,namesilo,,,19/09/2026 13:23
 911a11f3-884d-4fa6-9d14-85d4e94c4899,airplane.charity,available,14.99,23.99,high,low,8,namesilo,,,27/09/2026 04:01
@@ -885,12 +852,14 @@ ca707289-bc80-45e6-b87e-8b340a45ce3e,aircraft.pics,resell,,,high,low,8,Dynadot I
 cf7a88ad-edd6-4499-be0e-a3d97cc1cf50,air.to,resell,,,high,medium,3,humbly LLC,11/04/2019 03:29,11/04/2027 03:29,26/09/2026 01:28
 0a41a78f-d159-4127-87a8-7ff73d335154,air.rehab,available,36.99,36.99,high,medium,3,namesilo,,,05/10/2026 05:01
 e5830068-3306-4bc9-9ac9-81a4d8bfb19c,aircraft.education,available,34.99,34.99,high,low,8,namesilo,,,17/09/2026 23:03
+88cbae63-c652-4088-9292-6be7507f8ed4,aviation.pet,available,14.49,27.59,high,low,8,namesilo,,,17/09/2026 22:43
 53a58b76-3764-4c45-85b7-56a70fae77cc,flight.enterprises,available,11.49,35.99,high,low,6,namesilo,,,24/09/2026 20:44
 6ece2aa3-9303-4013-bda7-2a574d977dbb,aircraft.blue,available,19.99,24.99,high,low,8,namesilo,,,17/09/2026 23:03
 c03ba6cb-095c-401a-8180-7f9d4eb86469,aircraft.club,premium,960,17.7,high,low,8,namesilo,,,17/09/2026 23:03
 9fd68061-b4ee-4410-bad4-d19681df4170,airplane.cyou,premium,68.43,147.2,high,low,8,namesilo,,,27/09/2026 04:01
 1bc5972c-97c2-4c5b-9718-57d2e3baabe9,airplane.cloud,resell,,,high,low,8,Epik LLC,22/07/2021 00:02,22/07/2027 00:02,27/09/2026 04:01
 48245927-2817-4a6e-9eb2-540255379a08,air.management,resell,,,high,medium,3,"Sav.com, LLC - 28",28/08/2025 15:15,28/08/2027 15:15,26/09/2026 01:28
+4241b2a3-5586-479d-8ed7-1ef8df35a652,aviation.juegos,available,368.98,478.98,high,low,8,namecheap,,,17/09/2026 22:43
 3339d5cd-f03f-41da-b088-ab8f8e920d72,flight.charity,available,14.99,23.99,high,low,6,namesilo,,,24/09/2026 20:44
 9f4c6655-0e85-4fd3-9a9b-8a3267c2fa4c,aircraft.realty,available,109.99,299,high,low,8,namesilo,,,17/09/2026 23:03
 12b3328e-27a1-4aba-8149-75fb5067a2de,flight.actor,available,16.99,44.49,high,low,6,namesilo,,,24/09/2026 20:44
@@ -898,6 +867,7 @@ c03ba6cb-095c-401a-8180-7f9d4eb86469,aircraft.club,premium,960,17.7,high,low,8,n
 b59f7fe9-26da-4908-87f5-08e9df65d1da,airplane.deal,premium,116,116,high,low,8,namesilo,,,27/09/2026 04:01
 e5e15b2a-a353-43b2-9de8-ae87003d56c5,air.mov,premium,648.7,648.7,high,medium,3,namecheap,,,19/09/2026 13:23
 1e12e851-5c26-4a6a-973d-ba3dd0f40e39,aircraft.archi,available,19.99,103.99,high,low,8,namesilo,,,17/09/2026 23:03
+77009c38-aa45-4159-b6b2-0f38d9881177,aviation.mom,available,1.99,27.99,high,low,8,namesilo,,,17/09/2026 22:43
 fd5032bf-9dd8-4325-a1ac-87b2dc166569,flight.vision,resell,,,high,low,6,"GoDaddy.com, LLC",16/08/2022 13:15,16/08/2027 13:15,30/09/2026 04:15
 6c5402c5-262e-4b43-9f94-a6e9790441ca,aircraft.fishing,available,32.49,32.49,high,low,8,namesilo,,,17/09/2026 23:03
 076be1fd-c4ba-4edd-badb-8daf3a5be3ca,airplane.space,premium,6900,6900,high,low,8,namesilo,,,27/09/2026 04:01
@@ -905,12 +875,16 @@ c8c66db8-1cc8-4618-a6aa-634dceca993d,aircraft.shoes,available,64.99,64.99,high,l
 519ff9c0-97c6-44b8-a33b-9ac55fd40e93,aircraft.luxe,available,27.99,27.99,high,low,8,name.com,,,17/09/2026 23:03
 eef9d927-c260-48ef-93d7-f057dc71dfa3,flight.bid,available,5.25,6.25,high,low,6,namesilo,,,24/09/2026 20:44
 f5684a74-e11b-434f-a199-9826cef4e990,aircraft.lgbt,available,11.98,93.98,high,low,8,namecheap,,,17/09/2026 23:03
+a792fd06-33fa-4d79-a0ba-fb9978653e63,aviation.promo,available,14.49,24.99,high,low,8,namesilo,,,17/09/2026 22:43
+9e52a1a0-1c6e-443f-a7e4-0b1880aa289d,aviation.cash,available,12.99,38.99,high,low,8,namesilo,,,17/09/2026 22:43
 b66eab26-9eed-4cff-951c-3b7ebaa5b466,aircraft.camp,available,65.98,78.98,high,low,8,namecheap,,,17/09/2026 23:03
 b3de1e94-613a-42e5-80db-aff3d7d95ed3,airplane.farm,available,15.99,38.99,high,low,8,namesilo,,,27/09/2026 04:01
+345a8afa-f545-4630-bd72-59ce6e413efd,aviation.diet,available,104.99,114.99,high,low,8,namesilo,,,17/09/2026 22:43
 d693fe4e-d32b-4fd7-b5f4-c115db231867,aircraft.gifts,available,36.99,36.99,high,low,8,namesilo,,,17/09/2026 23:03
 7a01205c-5efa-4a89-9171-1d5d93cab3af,airplane.stream,premium,448,53.92,high,low,8,namesilo,,,27/09/2026 04:01
 d95f00d2-941a-463f-b854-fe6657d8d463,aircraft.audio,available,108.98,159.98,high,low,8,namecheap,,,17/09/2026 23:03
 a28d33ce-20ce-43cf-9a2c-767d59d70e2e,flight.today,resell,,,high,low,6,Dynadot Inc,29/04/2015 01:57,29/04/2027 01:57,26/09/2026 06:08
+17a60ec0-a4a8-4f9c-be98-607a50a6a533,aviation.family,premium,242,242,high,low,8,namesilo,,,17/09/2026 22:43
 7f02c5e3-e2f9-4e4d-8df0-845c73334e6e,aircraft.living,available,5.49,39.99,high,low,8,namesilo,,,17/09/2026 23:03
 d7486789-f79d-4aaf-a2d7-17c4ca428f97,airplane.town,available,8.99,36.49,high,low,8,namesilo,,,27/09/2026 04:01
 05e196f8-f5e6-4ea8-a862-93530566539b,flight.porn,available,179.99,179.99,high,low,6,name.com,,,24/09/2026 20:44
@@ -999,3 +973,29 @@ d7e3cc37-4f12-4c5f-8c5f-8b8c71a6ef24,flight.jewelry,available,67.98,69.98,high,l
 f2d99640-ebb3-452b-886a-6e4da0eae031,air.sexy,premium,32500,32500,high,medium,3,namecheap,,,19/09/2026 13:23
 64122a7a-e397-4878-aaa7-b5b6815b8420,flight.accountant,premium,448,53.92,high,low,6,namesilo,,,24/09/2026 20:44
 704fa91c-1fc5-4567-88f2-50f359503b04,airplane.ooo,available,24.99,24.99,high,low,8,namesilo,,,27/09/2026 04:01
+392bbe51-9fcc-4fb1-97ae-4bb5dc0fe290,air.gripe,premium,78.54,78.54,high,medium,3,namesilo,,,19/09/2026 13:23
+b1399ec6-98c2-4b9d-b303-5f5c2fcfe132,air.car,available,1999.99,2199,high,medium,3,namesilo,,,19/09/2026 13:23
+2fc9abd6-b20c-489e-be8f-fff96e99d68b,airplane.talk,premium,71.4,71.4,high,low,8,namesilo,,,27/09/2026 04:01
+b4413df1-09f6-4ad1-9e1e-05fec7da125e,airplane.poker,available,10.99,67.99,high,low,8,namesilo,,,27/09/2026 04:01
+b3b0dd37-f64a-4ec8-8945-ab6d82f30ccb,flight.degree,available,52.99,52.99,high,low,6,namesilo,,,24/09/2026 20:44
+4d8ae14f-5c9b-43c3-b2b4-b45f94a16ce7,air.beer,premium,96,29.5,high,medium,3,namesilo,,,19/09/2026 13:23
+78450b16-f5ba-4982-93fb-274993b711e2,aircraft.movie,available,40.98,446.98,high,low,8,namecheap,,,17/09/2026 23:03
+4e144c4a-3ffb-4f8f-bbc2-7cc76226c04f,air.boston,available,,,high,medium,3,,,,08/10/2026 09:29
+7b5951f1-82f3-4a44-a4cf-ced61ead4ae3,air.vc,resell,,,high,medium,3,"Sav.com, LLC",16/01/2015 04:41,16/01/2027 04:41,26/09/2026 01:28
+e3dd2e83-9124-49a1-8e65-82bdc6227c60,flight.berlin,available,79.98,89.98,high,low,6,namecheap,,,24/09/2026 20:44
+fd60175a-b180-4515-aa20-7ea0018b7aae,airplane.lighting,available,23.99,23.99,high,low,8,namesilo,,,27/09/2026 04:01
+f80b9e25-4077-48d0-8388-916eb5266921,air.bargains,premium,78.54,78.54,high,medium,3,namesilo,,,19/09/2026 13:23
+cd265d20-952b-40de-a47e-f458713feb72,flight.fishing,premium,96,29.5,high,low,6,namesilo,,,24/09/2026 20:44
+9840e0a0-4e6c-4eaa-ab82-9e71b0a077c9,airplane.dog,available,5.98,86.98,high,low,8,namecheap,,,27/09/2026 04:01
+9d7a60f6-f742-4701-8f2e-a0e20bc38ea1,aircraft.onl,premium,53.92,116,high,low,8,namesilo,,,17/09/2026 23:03
+f4953c61-ca00-4600-832e-e0aee94438ca,airplane.solar,available,67.98,81.98,high,low,8,namecheap,,,27/09/2026 04:01
+987229c4-03f0-4e47-a946-f6af10d5b4e6,airplane.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,27/09/2026 04:01
+5b256431-5101-4cf9-8fd5-fe71d4502e32,air.food,premium,1107,1107,high,medium,3,namesilo,,,19/09/2026 13:23
+c9504059-b798-49dd-a6da-019bc1ecac45,aircraft.shop,premium,625,625,high,low,8,name.com,,,17/09/2026 23:03
+73e97028-24c5-491c-9d5f-e6041eaab824,aircraft.sex,available,69.98,154.98,high,low,8,namecheap,,,17/09/2026 23:03
+657e4a48-8800-4666-9537-d8152c54950d,air.love,premium,1995,1995,high,medium,3,namesilo,,,19/09/2026 13:23
+6cd6d135-21eb-432b-b245-6ac4a3b96c9c,flight.broker,available,14.99,32.99,high,low,6,name.com,,,24/09/2026 20:44
+fda65cf0-4078-400e-abb1-a552a58fd0cf,air.fans,premium,640,640,high,medium,3,namesilo,,,19/09/2026 13:23
+1331db65-fcdf-48b3-94d5-541eda468602,aircraft.camera,available,58.99,58.99,high,low,8,namesilo,,,17/09/2026 23:03
+4f2d6aad-f297-4527-ab0c-c937f4703c13,aircraft.fit,available,2.99,46.99,high,low,8,name.com,,,17/09/2026 23:03
+e51f7b20-84ff-4d75-82c8-4df90001e370,airplane.homes,available,1.99,17.29,high,low,8,namesilo,,,27/09/2026 04:01
