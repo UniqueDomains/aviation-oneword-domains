@@ -1,9 +1,9 @@
 # Changelog
 
-## 2026-10-19
+## 2026-10-20
 
 - Refreshed the public extract to 1,000 rows.
-- Updated the live catalog reference to 108,122 domains.
+- Updated the live catalog reference to 108,146 domains.
 - Regenerated README copy and trust files from the shared manifest.
 
 For stable historical references, publish dated GitHub Releases with attached CSV and JSON assets.
