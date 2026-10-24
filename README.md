@@ -14,7 +14,7 @@ This is a curated list of one-word domain names built around the aviation keywor
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **99,756 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 99,756 domains · **Median ask:** $324.59 · **High-demand under $2,500:** 665
+**Public extract:** 1,000 rows · **Live catalog:** 99,756 domains · **Median ask:** $324.58 · **High-demand under $2,500:** 665
 
 **Last updated:** 2026-10-23
 **Canonical page:** `https://unique.domains/domains/sector/aviation`
