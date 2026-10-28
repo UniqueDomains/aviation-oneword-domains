@@ -14,7 +14,7 @@ This is a curated list of one-word domain names built around the aviation keywor
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **99,416 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 99,416 domains · **Median ask:** $311.47 · **High-demand under $2,500:** 1,974
+**Public extract:** 1,000 rows · **Live catalog:** 99,416 domains · **Median ask:** $311.08 · **High-demand under $2,500:** 1,969
 
 **Last updated:** 2026-10-27
 **Canonical page:** `https://unique.domains/domains/sector/aviation`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| air.archi          | available | $19.99    | $103.99       | high           | medium | 3      | namesilo          |
-| flight.money       | resell    | $38.98    | —             | high           | medium | 6      | NameCheap, Inc.   |
-| air.accountant     | premium   | $650      | $84.50        | high           | medium | 3      | namecheap         |
-| air.cars           | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo          |
-| air.broker         | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 50 |
-| air.blog           | premium   | $3,450    | $13,800       | high           | medium | 3      | namesilo          |
-| air.hiv            | available | $195.99   | $195.99       | high           | medium | 3      | namesilo          |
-| air.consulting     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
-| air.cloud          | premium   | $6,900    | $6,900        | high           | medium | 3      | namesilo          |
-| air.hosting        | available | $309.99   | $429.99       | high           | medium | 3      | namesilo          |
-| air.cool           | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
-| air.dental         | premium   | $242      | $242          | high           | medium | 3      | namesilo          |
-| air.jewelry        | available | $67.98    | $69.98        | high           | medium | 3      | namecheap         |
-| air.rentals        | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC  |
-| air.esq            | premium   | $843.70   | $843.70       | high           | medium | 3      | namecheap         |
-| flight.accountants | available | $93.35    | $93.35        | high           | medium | 6      | spaceship         |
-| air.support        | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
-| air.foo            | premium   | $648.70   | $648.70       | high           | medium | 3      | namecheap         |
-| flight.airforce    | available | $122.48   | $149.98       | high           | medium | 6      | namecheap         |
-| flight.bar         | resell    | —         | —             | high           | medium | 6      | Dynadot, LLC      |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| air.condos         | available | $58.99    | $58.99        | high           | medium | 3      | namesilo                                                  |
+| flight.money       | resell    | $38.98    | —             | high           | medium | 6      | NameCheap, Inc.                                           |
+| air.charity        | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap                                                 |
+| air.kaufen         | available | $5.99     | $26.99        | high           | medium | 3      | namesilo                                                  |
+| air.ceo            | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
+| air.cleaning       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
+| air.salon          | available | $55.98    | $69.98        | high           | medium | 3      | namecheap                                                 |
+| air.family         | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| air.cloud          | premium   | $6,900    | $6,900        | high           | medium | 3      | namesilo                                                  |
+| air.villas         | available | $59.99    | $59.99        | high           | medium | 3      | namesilo                                                  |
+| air.glass          | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.                                           |
+| air.construction   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
+| flight.accountants | available | $93.35    | $93.35        | high           | medium | 6      | spaceship                                                 |
+| air.ink            | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                              |
+| air.creditcard     | premium   | $242      | $242          | high           | medium | 3      | namesilo                                                  |
+| flight.actor       | available | $8.48     | $35.39        | high           | medium | 6      | spaceship                                                 |
+| air.life           | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd.       |
+| air.cricket        | premium   | $640      | $77.35        | high           | medium | 3      | namesilo                                                  |
+| flight.airforce    | available | $122.48   | $149.98       | high           | medium | 6      | namecheap                                                 |
+| air.men            | resell    | —         | —             | high           | medium | 3      | NameSilo, LLC                                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 | ----------------------- | ---------------------------------------------------- |
 | 1,000-row public sample | 99,416 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 1,974 high-demand names under $2,500                 |
+| Basic exported fields   | 1,969 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
